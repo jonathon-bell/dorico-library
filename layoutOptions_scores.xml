@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutOptions_scores>
+	<fileVersion>1.1417</fileVersion>
+	<transpositionType>int: 0</transpositionType>
+	<playerInstrumentTransitionOptions>
+		<shouldInsertTransitions>bool: true</shouldInsertTransitions>
+		<useFullInstrumentNameInChangeLabels>bool: false</useFullInstrumentNameInChangeLabels>
+		<instrumentChangeLabelType>int: 0</instrumentChangeLabelType>
+		<customChangeLabelTextBefore>string: &quot;&quot;</customChangeLabelTextBefore>
+		<customChangeLabelTextAfter>string: &quot;&quot;</customChangeLabelTextAfter>
+		<showWarningLabels>bool: false</showWarningLabels>
+		<showInstrumentChangeLabelAtStartOfFlows>bool: false</showInstrumentChangeLabelAtStartOfFlows>
+		<showAtChangeLabelsAfterCues>bool: true</showAtChangeLabelsAfterCues>
+		<useEarlyTransitionPositionIfPossible>bool: true</useEarlyTransitionPositionIfPossible>
+		<useUnsnappedPositionsForWarningLabels>bool: true</useUnsnappedPositionsForWarningLabels>
+		<useUnsnappedPositionsForChangeLabels>bool: false</useUnsnappedPositionsForChangeLabels>
+		<labelHideType>int: 1</labelHideType>
+		<showTranspositionOnlyInLabelWhenInstrumentsMatch>bool: false</showTranspositionOnlyInLabelWhenInstrumentsMatch>
+	</playerInstrumentTransitionOptions>
+	<defaultSpaceSize>string: &quot;4.96&quot;</defaultSpaceSize>
+	<verticalStaveGapOptions>
+		<staveToStaveGap>string: &quot;6&quot;</staveToStaveGap>
+		<staveGroupToStaveGap>string: &quot;8&quot;</staveGroupToStaveGap>
+		<staveToStaveGroupGap>string: &quot;8&quot;</staveToStaveGroupGap>
+		<staveGroupToStaveGroupGap>string: &quot;8&quot;</staveGroupToStaveGroupGap>
+		<bracedStaveToBracedStaveGap>string: &quot;6&quot;</bracedStaveToBracedStaveGap>
+		<bracedStaveToUnbracedStaveGap>string: &quot;6&quot;</bracedStaveToUnbracedStaveGap>
+		<ossiaStaveToStaveGap>string: &quot;4&quot;</ossiaStaveToStaveGap>
+		<interSystemGap>string: &quot;10&quot;</interSystemGap>
+		<minimumInterStaveGap>string: &quot;4&quot;</minimumInterStaveGap>
+		<minimumInterSystemGap>string: &quot;8&quot;</minimumInterSystemGap>
+		<minimumGapBetweenContentOnAdjacentStaves>string: &quot;1&quot;</minimumGapBetweenContentOnAdjacentStaves>
+		<minimumGapBetweenContentOnAdjacentSystems>string: &quot;2&quot;</minimumGapBetweenContentOnAdjacentSystems>
+		<staveScaleForGalleyView>int: 125</staveScaleForGalleyView>
+		<useVerticalGapFineTuning>bool: true</useVerticalGapFineTuning>
+		<annotationStaveToStaveGap>string: &quot;6&quot;</annotationStaveToStaveGap>
+		<notationStaveToTabGap>string: &quot;6&quot;</notationStaveToTabGap>
+		<verticalViewInterSystemGap>string: &quot;14&quot;</verticalViewInterSystemGap>
+		<useGlobalSpaceSizeForGapCalculation>bool: false</useGlobalSpaceSizeForGapCalculation>
+	</verticalStaveGapOptions>
+	<showBarRestsInEmptyBars>bool: true</showBarRestsInEmptyBars>
+	<pageSizeAndMarginOptions>
+		<pageWidth>string: &quot;594&quot;</pageWidth>
+		<pageHeight>string: &quot;841&quot;</pageHeight>
+		<pageMargins>
+			<type>int: 1</type>
+			<margins>
+				<outer>string: &quot;42&quot;</outer>
+				<inner>string: &quot;42&quot;</inner>
+				<top>string: &quot;42&quot;</top>
+				<bottom>string: &quot;42&quot;</bottom>
+			</margins>
+			<extraMargins/>
+		</pageMargins>
+		<defaultMusicFrameTopPadding>string: &quot;40&quot;</defaultMusicFrameTopPadding>
+		<defaultMusicFrameBottomPadding>string: &quot;30&quot;</defaultMusicFrameBottomPadding>
+		<flowHeadingMargins>
+			<headingTopMargin>string: &quot;42.52&quot;</headingTopMargin>
+			<headingBottomMargin>string: &quot;34.02&quot;</headingBottomMargin>
+		</flowHeadingMargins>
+	</pageSizeAndMarginOptions>
+	<verticalJustificationOptions>
+		<justificationThreshold>int: 60</justificationThreshold>
+		<staveGapJustificationThreshold>int: 80</staveGapJustificationThreshold>
+		<ignoreStaveGapJustificationThresholdForFrameWithSingleSystem>bool: true</ignoreStaveGapJustificationThresholdForFrameWithSingleSystem>
+	</verticalJustificationOptions>
+	<noteSpacingJustificationOptions>
+		<finalSystemJustificationThreshold>int: 50</finalSystemJustificationThreshold>
+		<useFinalSystemJustificationThreshold>bool: true</useFinalSystemJustificationThreshold>
+		<considerMinimumDistanceViolations>bool: true</considerMinimumDistanceViolations>
+	</noteSpacingJustificationOptions>
+	<noteSpacingOptions>
+		<crotchetSize>string: &quot;4&quot;</crotchetSize>
+		<floorSize>string: &quot;8/5&quot;</floorSize>
+		<graceNoteSpacingScale>int: 70</graceNoteSpacingScale>
+		<useCustomRatio>bool: false</useCustomRatio>
+		<customRatio>double: 1.41421</customRatio>
+		<performOpticalAdjustmentForCrossedBeams>bool: false</performOpticalAdjustmentForCrossedBeams>
+		<cueNoteSpacingScale>int: 70</cueNoteSpacingScale>
+		<generateSpacingRodsForLyrics>bool: true</generateSpacingRodsForLyrics>
+	</noteSpacingOptions>
+	<castingOffOptions>
+		<splitOpenBars>bool: false</splitOpenBars>
+		<fixNumberOfSystems>bool: false</fixNumberOfSystems>
+		<fixNumberOfBarsPerSystem>bool: false</fixNumberOfBarsPerSystem>
+		<scaleFixedNumberOfSystemsByFrameHeight>bool: true</scaleFixedNumberOfSystemsByFrameHeight>
+		<numberOfSystemsPerFrame>int: 10</numberOfSystemsPerFrame>
+		<numberOfBarsPerSystem>int: 4</numberOfBarsPerSystem>
+	</castingOffOptions>
+	<pageNumberOptions>
+		<appearance>int: 0</appearance>
+		<visibility>int: 0</visibility>
+		<firstPageNumber>int: 1</firstPageNumber>
+	</pageNumberOptions>
+	<pagePairSetEntityID>string: &quot;pageset.fullscore&quot;</pagePairSetEntityID>
+	<drawRehearsalMarksBelowBottomStave>bool: false</drawRehearsalMarksBelowBottomStave>
+	<staffLabelLayoutOptions>
+		<staffLabelsOnFirstSystem>int: 0</staffLabelsOnFirstSystem>
+		<staffLabelsOnSubsequentSystems>int: 1</staffLabelsOnSubsequentSystems>
+		<showTranspositionInStaffLabels>bool: true</showTranspositionInStaffLabels>
+		<showTranspositionInAbbreviatedStaffLabels>bool: true</showTranspositionInAbbreviatedStaffLabels>
+		<staffLabelsFullTranspositionAppearance>int: 0</staffLabelsFullTranspositionAppearance>
+		<minimumWidthForStaffLabels>string: &quot;0&quot;</minimumWidthForStaffLabels>
+		<separatorForTranspositionsBefore>string: &quot; &quot;</separatorForTranspositionsBefore>
+		<separateTranspositionWithNewLine>bool: false</separateTranspositionWithNewLine>
+		<showTranspositionInParentheses>bool: false</showTranspositionInParentheses>
+		<showInstrumentNumberBeforeTransposition>bool: false</showInstrumentNumberBeforeTransposition>
+		<playerGroupLabelVisibility>int: 1</playerGroupLabelVisibility>
+		<showPlayerNamesOnFirstSystemOnly>bool: false</showPlayerNamesOnFirstSystemOnly>
+		<showStaffLabelsForFirstFlowOnly>bool: false</showStaffLabelsForFirstFlowOnly>
+		<useFlowFirstSystemIndentWhenStaffLabelsShown>bool: false</useFlowFirstSystemIndentWhenStaffLabelsShown>
+		<staffLabelShowsFirstSoundingInstrumentOnSystem>bool: true</staffLabelShowsFirstSoundingInstrumentOnSystem>
+		<considerStaffLabelWidthWhenDeterminingSystemWidth>bool: true</considerStaffLabelWidthWhenDeterminingSystemWidth>
+	</staffLabelLayoutOptions>
+	<barNumberLayoutOptions>
+		<barNumberFrequency>int: 0</barNumberFrequency>
+		<barNumberInterval>int: 10</barNumberInterval>
+		<showAboveTopStaff>bool: true</showAboveTopStaff>
+		<showBelowBottomStaff>bool: false</showBelowBottomStaff>
+		<barNumberDistanceFromStaff>string: &quot;2&quot;</barNumberDistanceFromStaff>
+		<minimumDistanceFromOtherObjects>string: &quot;3/4&quot;</minimumDistanceFromOtherObjects>
+		<barNumberEnclosureType>int: 0</barNumberEnclosureType>
+		<barNumberHorizonalPosition>int: 0</barNumberHorizonalPosition>
+		<alignBarNumbersOnSameSystem>bool: false</alignBarNumbersOnSameSystem>
+		<showBarNumbersWhenCoincidentWithRehearsalMarks>bool: false</showBarNumbersWhenCoincidentWithRehearsalMarks>
+		<barNumberAtStartOfSystemAfterPreamble>bool: false</barNumberAtStartOfSystemAfterPreamble>
+		<showFirstBarNumberWhenShownEveryBar>bool: false</showFirstBarNumberWhenShownEveryBar>
+		<showBarNumbersWhenCoincidentWithOutsideStaveTimeSignature>bool: false</showBarNumbersWhenCoincidentWithOutsideStaveTimeSignature>
+		<barNumbersParagraphStyle>string: &quot;paragraph.barnumbers.score&quot;</barNumbersParagraphStyle>
+		<showBarNumberAtStartOfSystemForBarSplitOverBreak>bool: true</showBarNumberAtStartOfSystemForBarSplitOverBreak>
+		<showBarNumberAtStartOfCoda>bool: false</showBarNumberAtStartOfCoda>
+		<repeatedBarNumberRepresentation>int: 0</repeatedBarNumberRepresentation>
+		<repeatedBarNumberPrefix>string: &quot; (&quot;</repeatedBarNumberPrefix>
+		<repeatedBarNumberSuffix>string: &quot;)&quot;</repeatedBarNumberSuffix>
+		<showBarNumberWhenCoincidentWithStartOfMultiRestRange>bool: false</showBarNumberWhenCoincidentWithStartOfMultiRestRange>
+		<addBarNumbersToStaveProfile>bool: true</addBarNumbersToStaveProfile>
+		<dynamicsRelativePositionAtBarlines>int: 0</dynamicsRelativePositionAtBarlines>
+		<showBarNumbersAcrossSystemOnCutawayStaves>bool: false</showBarNumbersAcrossSystemOnCutawayStaves>
+		<centreBarNumberOnSystemicBarline>bool: false</centreBarNumberOnSystemicBarline>
+	</barNumberLayoutOptions>
+	<hideEmptyStavesPolicy>int: 2</hideEmptyStavesPolicy>
+	<allowPartialHidingOfGrandStaveInstruments>bool: false</allowPartialHidingOfGrandStaveInstruments>
+	<flowBreakBehaviour>int: 1</flowBreakBehaviour>
+	<flowHeadingBehaviour>int: 2</flowHeadingBehaviour>
+	<firstPageBehaviour>int: 1</firstPageBehaviour>
+	<flowFirstSystemIndent>string: &quot;0&quot;</flowFirstSystemIndent>
+	<systemObjectVisibilityOptions>
+		<showRepeatEndingLinesBelowBottomStave>bool: false</showRepeatEndingLinesBelowBottomStave>
+		<showAboveSoloist>bool: false</showAboveSoloist>
+		<showAboveFamilies>string: &quot;&quot;</showAboveFamilies>
+	</systemObjectVisibilityOptions>
+	<chordSymbolLayoutOptions>
+		<showChordSymbolsAboveTopStaffOfSystem>bool: false</showChordSymbolsAboveTopStaffOfSystem>
+		<positionChordSymbolsBetweenStavesOfGrandStaveInstruments>bool: false</positionChordSymbolsBetweenStavesOfGrandStaveInstruments>
+	</chordSymbolLayoutOptions>
+	<cueLayoutOptions>
+		<showCues>bool: false</showCues>
+		<showOctaveLine>bool: true</showOctaveLine>
+	</cueLayoutOptions>
+	<percussionLayoutOptions>
+		<showPercussionLegendsOnGrids>bool: false</showPercussionLegendsOnGrids>
+		<showPercussionLegendsOnFiveLineStaves>bool: true</showPercussionLegendsOnFiveLineStaves>
+	</percussionLayoutOptions>
+	<showFingeringsInLayout>bool: true</showFingeringsInLayout>
+	<systemDividerLayoutOptions>
+		<approach>int: 0</approach>
+		<type>int: 0</type>
+		<minimumPlayersInFlow>int: 4</minimumPlayersInFlow>
+		<minimumStavesInSystem>int: 4</minimumStavesInSystem>
+	</systemDividerLayoutOptions>
+	<timeSignatureType>int: 0</timeSignatureType>
+	<timeSignatureGlyphStyle>int: 0</timeSignatureGlyphStyle>
+	<userDefinedLargeTimeSignatures>list: </userDefinedLargeTimeSignatures>
+	<largeTimeSignatureBehaviour>int: 0</largeTimeSignatureBehaviour>
+	<staffLayoutOptions>
+		<showPreambleForOssiaStaves>bool: true</showPreambleForOssiaStaves>
+		<showStaffLabelBeforeOssia>bool: false</showStaffLabelBeforeOssia>
+		<useCustomStaffLabelBeforeOssia>bool: false</useCustomStaffLabelBeforeOssia>
+		<customStaffLabelBeforeOssia>string: &quot;&quot;</customStaffLabelBeforeOssia>
+		<useCustomBracketsForStaffLabelBeforeOssia>bool: false</useCustomBracketsForStaffLabelBeforeOssia>
+		<customOpenBracketForStaffLabelBeforeOssia>string: &quot;(&quot;</customOpenBracketForStaffLabelBeforeOssia>
+		<customCloseBracketForStaffLabelBeforeOssia>string: &quot;)&quot;</customCloseBracketForStaffLabelBeforeOssia>
+		<showOssiaStaves>bool: true</showOssiaStaves>
+		<showExtraStavesAcrossEntireSystem>bool: false</showExtraStavesAcrossEntireSystem>
+		<positionSystemObjectsAndBarNumbersOutsideOssias>bool: false</positionSystemObjectsAndBarNumbersOutsideOssias>
+		<showSystemObjectsAndBarNumbersOnCutawayStaves>bool: false</showSystemObjectsAndBarNumbersOnCutawayStaves>
+	</staffLayoutOptions>
+	<markerLayoutOptions>
+		<showMarkers>bool: true</showMarkers>
+		<verticalPosition>int: 0</verticalPosition>
+		<markerStaffAboveFamily>int: 8</markerStaffAboveFamily>
+		<timecodeFrequency>int: 0</timecodeFrequency>
+		<showTimecodeAtStartOfSystem>bool: false</showTimecodeAtStartOfSystem>
+		<timecodeAtStartOfSystemSystemRelativePosition>int: 1</timecodeAtStartOfSystemSystemRelativePosition>
+		<timecodeAtStartOfSystemHorizontalOffset>string: &quot;0&quot;</timecodeAtStartOfSystemHorizontalOffset>
+		<timecodeAtStartOfSystemVerticalOffset>string: &quot;1/2&quot;</timecodeAtStartOfSystemVerticalOffset>
+		<showTimecodeOnFirstSystem>bool: true</showTimecodeOnFirstSystem>
+	</markerLayoutOptions>
+	<showMultiRestBarNumberRanges>bool: false</showMultiRestBarNumberRanges>
+	<divisiLayoutOptions>
+		<showGroupNames>bool: true</showGroupNames>
+		<showSectionNamesOnInitialSystemOfDivisi>bool: true</showSectionNamesOnInitialSystemOfDivisi>
+		<showSectionNamesOnSubsequentSystemsOfDivisi>bool: true</showSectionNamesOnSubsequentSystemsOfDivisi>
+		<showDivisiLabels>bool: true</showDivisiLabels>
+		<snapDivisiUnisonLabels>bool: true</snapDivisiUnisonLabels>
+		<divisiStaveGapType>int: 0</divisiStaveGapType>
+	</divisiLayoutOptions>
+	<barConsolidationBehaviour>int: 0</barConsolidationBehaviour>
+	<repeatMarkerOptions>
+		<wordWrapJumpQualificationsByDefault>bool: false</wordWrapJumpQualificationsByDefault>
+		<staveRelativePositioning>int: 0</staveRelativePositioning>
+	</repeatMarkerOptions>
+	<tacetOptions>
+		<showTacets>bool: true</showTacets>
+		<tacetString>string: &quot;Tacet&quot;</tacetString>
+		<marginAboveTacet>string: &quot;14.17&quot;</marginAboveTacet>
+		<marginBelowTacet>string: &quot;0&quot;</marginBelowTacet>
+	</tacetOptions>
+	<textTokenOptions>
+		<suppressPageNumberAboveFlowHeadings>bool: true</suppressPageNumberAboveFlowHeadings>
+		<suppressFlowPageNumberAboveFlowHeadings>bool: true</suppressFlowPageNumberAboveFlowHeadings>
+		<suppressFlowTitleAboveFlowHeadings>bool: true</suppressFlowTitleAboveFlowHeadings>
+		<useCustomScoreInCText>bool: false</useCustomScoreInCText>
+		<customScoreInCText>string: &quot;&quot;</customScoreInCText>
+		<useCustomTransposingScoreText>bool: false</useCustomTransposingScoreText>
+		<customTransposingScoreText>string: &quot;&quot;</customTransposingScoreText>
+	</textTokenOptions>
+	<condensingLayoutOptions>
+		<enableCondensing>bool: false</enableCondensing>
+		<sectionPlayerPolicy>int: 0</sectionPlayerPolicy>
+		<excludeViolinsWhenCondensingAdjacentSectionPlayers>bool: false</excludeViolinsWhenCondensingAdjacentSectionPlayers>
+		<allowInstrumentChangesOnCondensedStaves>bool: true</allowInstrumentChangesOnCondensedStaves>
+	</condensingLayoutOptions>
+	<harpPedalLayoutOptions>
+		<showHarpPedalSettings>bool: false</showHarpPedalSettings>
+		<harpPedalSettingsAppearance>int: 1</harpPedalSettingsAppearance>
+	</harpPedalLayoutOptions>
+	<bracketingLayoutOptions>
+		<bracketPlacingApproach>int: 1</bracketPlacingApproach>
+		<useSubBrackets>bool: true</useSubBrackets>
+		<useBracesForSubBrackets>bool: false</useBracesForSubBrackets>
+		<showBracketForSingleStaff>bool: false</showBracketForSingleStaff>
+		<drawBraceOnSingleStave>bool: true</drawBraceOnSingleStave>
+		<drawSubBracketOnSingleStave>bool: true</drawSubBracketOnSingleStave>
+		<barlineJoinsFollowBrackets>bool: true</barlineJoinsFollowBrackets>
+		<subBracketingApproachForViolins1And2>int: 0</subBracketingApproachForViolins1And2>
+		<drawSubBracketIfSecondaryGroupMatchesPrimaryGroup>bool: true</drawSubBracketIfSecondaryGroupMatchesPrimaryGroup>
+		<drawSubBracketOnSingleStaveDivisi>bool: false</drawSubBracketOnSingleStaveDivisi>
+	</bracketingLayoutOptions>
+	<chordsUsedFrameLayoutOptions>
+		<showChordsUsedFrameAtStart>bool: false</showChordsUsedFrameAtStart>
+		<maxNumberOfDiagramsPerRow>int: 8</maxNumberOfDiagramsPerRow>
+		<sizeRatio>double: 1.3</sizeRatio>
+		<horizontalSpacingBetweenDiagrams>string: &quot;35&quot;</horizontalSpacingBetweenDiagrams>
+		<verticalSpacingBetweenDiagrams>string: &quot;30&quot;</verticalSpacingBetweenDiagrams>
+		<spaceAboveDiagrams>string: &quot;0&quot;</spaceAboveDiagrams>
+		<spaceBelowDiagrams>string: &quot;20&quot;</spaceBelowDiagrams>
+		<showFingeringsInChordsUsedDiagrams>bool: false</showFingeringsInChordsUsedDiagrams>
+		<chordSymbolsVisibility>int: 2</chordSymbolsVisibility>
+	</chordsUsedFrameLayoutOptions>
+	<chordDiagramLayoutOptions>
+		<showFingering>bool: false</showFingering>
+		<fingerNumberPosition>int: 0</fingerNumberPosition>
+	</chordDiagramLayoutOptions>
+	<manuscriptStaffLayoutOptions>
+		<manuscriptStaveFillType>int: 0</manuscriptStaveFillType>
+		<numStaveLinesInManuscriptStaves>int: 5</numStaveLinesInManuscriptStaves>
+		<mirrorStavesInLayout>bool: true</mirrorStavesInLayout>
+		<showPreamble>bool: true</showPreamble>
+	</manuscriptStaffLayoutOptions>
+	<figuredBassLayoutOptions>
+		<staveRelativePosition>int: 1</staveRelativePosition>
+	</figuredBassLayoutOptions>
+	<layoutInstrumentVisibilityPresetID>int: -1</layoutInstrumentVisibilityPresetID>
+	<showNumberedBarRegions>bool: false</showNumberedBarRegions>
+	<cutawayLayoutOptions>
+		<automaticCutawaysEnabled>bool: false</automaticCutawaysEnabled>
+		<numEmptyBarsBeforeCutaway>int: 1</numEmptyBarsBeforeCutaway>
+		<cutawayGrandStaffInstrumentStavesIndividually>bool: false</cutawayGrandStaffInstrumentStavesIndividually>
+	</cutawayLayoutOptions>
+	<tempoLayoutOptions>
+		<showMetronomeMarkForImmediateTempos>bool: true</showMetronomeMarkForImmediateTempos>
+	</tempoLayoutOptions>
+	<barlineLayoutOptions>
+		<cautionaryClefAndSignaturesAtEndRepeatBarline>int: 0</cautionaryClefAndSignaturesAtEndRepeatBarline>
+		<cautionaryClefAndSignaturesAtRepeatJump>int: 0</cautionaryClefAndSignaturesAtRepeatJump>
+		<restorativeClefAndSignaturesAfterEndRepeatBarline>int: 0</restorativeClefAndSignaturesAfterEndRepeatBarline>
+		<restorativeClefAndSignaturesAfterRepeatJump>int: 0</restorativeClefAndSignaturesAfterRepeatJump>
+	</barlineLayoutOptions>
+</layoutOptions_scores>

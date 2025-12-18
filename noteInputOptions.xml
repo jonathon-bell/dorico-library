@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<noteInputOptions>
+	<fileVersion>1.1417</fileVersion>
+	<caretGridOptions>
+		<caretGridVisible>bool: true</caretGridVisible>
+		<caretGridResolution>string: &quot;1/2&quot;</caretGridResolution>
+	</caretGridOptions>
+	<noteInputPitchMode>int: 0</noteInputPitchMode>
+	<filterBehaviour>int: 0</filterBehaviour>
+	<chordInputOptions>
+		<omissionsConsiderationInputPreference>int: 1</omissionsConsiderationInputPreference>
+		<ignoreInversions>bool: false</ignoreInversions>
+		<suspendedSecondInputPreference>int: 0</suspendedSecondInputPreference>
+		<addedNinthInputPreference>int: 1</addedNinthInputPreference>
+		<addedEleventhInputPreference>int: 1</addedEleventhInputPreference>
+		<omissionOrAdditionInputPreference>int: 0</omissionOrAdditionInputPreference>
+		<diminishedMajorSeventhInputPreference>int: 0</diminishedMajorSeventhInputPreference>
+		<preferFlat6OverFlat13InChordsWithoutSeventh>bool: false</preferFlat6OverFlat13InChordsWithoutSeventh>
+		<considerAlteredBassNoteAsPartOfChordDescription>bool: false</considerAlteredBassNoteAsPartOfChordDescription>
+		<suspensionOrAdditionPreferenceForNinth>int: 0</suspensionOrAdditionPreferenceForNinth>
+		<augmentedChordWithSeventhPreference>int: 0</augmentedChordWithSeventhPreference>
+		<preferInversionsForSimpleChords>bool: false</preferInversionsForSimpleChords>
+		<chordInputSpellingPreference>int: 0</chordInputSpellingPreference>
+		<enforceCleanIntervallicRelationshipBetweenRootAndAlteredBass>bool: true</enforceCleanIntervallicRelationshipBetweenRootAndAlteredBass>
+		<ignoreInversionsInPolychords>bool: true</ignoreInversionsInPolychords>
+		<chordSymbolMIDIInputNavigationBehaviour>int: 1</chordSymbolMIDIInputNavigationBehaviour>
+		<allowModalChordsToBeInputViaMIDI>bool: true</allowModalChordsToBeInputViaMIDI>
+		<allowChordsToBeInputViaMIDI>bool: true</allowChordsToBeInputViaMIDI>
+		<preferMinorSeventhOverSixthWhenInInversion>bool: false</preferMinorSeventhOverSixthWhenInInversion>
+	</chordInputOptions>
+	<chordDiagramInputOptions>
+		<highestStartingFretToAllowForChordShapes>int: 11</highestStartingFretToAllowForChordShapes>
+		<rootNoteApproach>int: 0</rootNoteApproach>
+		<allowRootNoteAnywhereInChordDiagramWhenFewerThanFiveStrings>bool: true</allowRootNoteAnywhereInChordDiagramWhenFewerThanFiveStrings>
+		<omitRootNoteEntirelyFromChord>bool: false</omitRootNoteEntirelyFromChord>
+		<allowChordsBeyond7thToOmit5th>bool: true</allowChordsBeyond7thToOmit5th>
+		<omit9thFrom11thAnd13thChords>bool: true</omit9thFrom11thAnd13thChords>
+		<allowTAsThumbMarkInFingering>bool: false</allowTAsThumbMarkInFingering>
+		<updateAllChordDiagramsWhenThumbFingeringOptionChanges>bool: true</updateAllChordDiagramsWhenThumbFingeringOptionChanges>
+	</chordDiagramInputOptions>
+	<noteInputSpellingOptions>
+		<midiNoteInputRootSpellingPreference>int: 2</midiNoteInputRootSpellingPreference>
+		<allowNotesToBeRespeltRetrospectively>bool: true</allowNotesToBeRespeltRetrospectively>
+	</noteInputSpellingOptions>
+	<multiCaretOptions>
+		<distributeChords>bool: true</distributeChords>
+	</multiCaretOptions>
+	<explodeOptions>
+		<duplicateNotes>bool: true</duplicateNotes>
+		<chordAllocation>int: 2</chordAllocation>
+	</explodeOptions>
+	<reduceOptions>
+		<individualVoices>bool: false</individualVoices>
+	</reduceOptions>
+	<insertOptions>
+		<insertWithinCurrentBarBehaviour>int: 0</insertWithinCurrentBarBehaviour>
+	</insertOptions>
+	<figuredBassInputOptions>
+		<useUserOverrides>bool: false</useUserOverrides>
+		<diminishedIntervalsInputBehaviour>int: 1</diminishedIntervalsInputBehaviour>
+		<treat742AsDominantSeventhOnTonicPedal>bool: false</treat742AsDominantSeventhOnTonicPedal>
+		<treat64WithAugmentedFourthAsThirdInversionDominantSeventh>bool: false</treat64WithAugmentedFourthAsThirdInversionDominantSeventh>
+	</figuredBassInputOptions>
+	<musicalManipulationOptions>
+		<allowClippingIfContentWraps>bool: true</allowClippingIfContentWraps>
+		<allowRhythmicRescaling>bool: true</allowRhythmicRescaling>
+		<inversionIntervalQualityDefault>int: 0</inversionIntervalQualityDefault>
+		<defaultBehaviourForChromaticInversions>int: 0</defaultBehaviourForChromaticInversions>
+		<defaultBehaviourForDiatonicInversions>int: 0</defaultBehaviourForDiatonicInversions>
+		<forceDestinationSpellingsWhenTransformingScale>bool: false</forceDestinationSpellingsWhenTransformingScale>
+		<alwaysApplyRelativePitchOffsetsWhenTransformingScale>bool: false</alwaysApplyRelativePitchOffsetsWhenTransformingScale>
+		<mapEnharmonicEquivalents>bool: false</mapEnharmonicEquivalents>
+	</musicalManipulationOptions>
+	<atonalSpellingsOptions>
+		<disallowRemoteSpellings>bool: true</disallowRemoteSpellings>
+		<preferredAccidentalType>int: 2</preferredAccidentalType>
+		<preferNaturalsOverConflictsOfAccidentalType>bool: true</preferNaturalsOverConflictsOfAccidentalType>
+		<chordsPreference>int: 1</chordsPreference>
+		<alwaysFavourSingleOverMultipleAccidentals>bool: false</alwaysFavourSingleOverMultipleAccidentals>
+		<destinationForOptimalSpellings>int: 1</destinationForOptimalSpellings>
+	</atonalSpellingsOptions>
+	<chordSymbolVoicerOptions>
+		<lowestPreferredPitchForTonic>int: 45</lowestPreferredPitchForTonic>
+		<lowestAllowablePitchForTonic>int: 41</lowestAllowablePitchForTonic>
+		<lowestPreferredPitchForFlatNinths>int: 54</lowestPreferredPitchForFlatNinths>
+		<lowestAllowablePitchForFlatNinths>int: 49</lowestAllowablePitchForFlatNinths>
+		<lowestPreferredPitchForMajorNinths>int: 52</lowestPreferredPitchForMajorNinths>
+		<lowestAllowablePitchForMajorNinths>int: 49</lowestAllowablePitchForMajorNinths>
+		<lowestPreferredPitchForSharpNinths>int: 53</lowestPreferredPitchForSharpNinths>
+		<lowestAllowablePitchForSharpNinths>int: 52</lowestAllowablePitchForSharpNinths>
+		<lowestPreferredPitchForThirds>int: 52</lowestPreferredPitchForThirds>
+		<lowestAllowablePitchForThirds>int: 48</lowestAllowablePitchForThirds>
+		<lowestPreferredPitchForFourths>int: 51</lowestPreferredPitchForFourths>
+		<lowestAllowablePitchForFourths>int: 49</lowestAllowablePitchForFourths>
+		<lowestPreferredPitchForSharp11OrFlat5>int: 52</lowestPreferredPitchForSharp11OrFlat5>
+		<lowestAllowablePitchForSharp11OrFlat5>int: 49</lowestAllowablePitchForSharp11OrFlat5>
+		<lowestPreferredPitchForFifths>int: 45</lowestPreferredPitchForFifths>
+		<lowestAllowablePitchForFifths>int: 41</lowestAllowablePitchForFifths>
+		<lowestPreferredPitchForSharpFifthOrFlat13>int: 52</lowestPreferredPitchForSharpFifthOrFlat13>
+		<lowestAllowablePitchForSharpFifthOrFlat13>int: 50</lowestAllowablePitchForSharpFifthOrFlat13>
+		<lowestPreferredPitchForSixthOr13th>int: 51</lowestPreferredPitchForSixthOr13th>
+		<lowestAllowablePitchForSixthOr13th>int: 48</lowestAllowablePitchForSixthOr13th>
+		<lowestPreferredPitchForDominantSevenths>int: 52</lowestPreferredPitchForDominantSevenths>
+		<lowestAllowablePitchForDominantSevenths>int: 50</lowestAllowablePitchForDominantSevenths>
+		<lowestPreferredPitchForMajorSevenths>int: 52</lowestPreferredPitchForMajorSevenths>
+		<lowestAllowablePitchForMajorSevenths>int: 50</lowestAllowablePitchForMajorSevenths>
+		<seventhResolutionBehaviour>int: 1</seventhResolutionBehaviour>
+		<penaliseSeventhResolvingToFifth>bool: false</penaliseSeventhResolvingToFifth>
+		<thirdToFifthResolutionBehaviour>int: 1</thirdToFifthResolutionBehaviour>
+		<allowStepwiseParallelMotionOfChordsContainingSevenths>bool: false</allowStepwiseParallelMotionOfChordsContainingSevenths>
+		<allowStepwiseParallelMotionOfDiminishedChords>bool: false</allowStepwiseParallelMotionOfDiminishedChords>
+		<allowStepwiseParallelMotionOfAugmentedChords>bool: false</allowStepwiseParallelMotionOfAugmentedChords>
+		<allowStepwiseParallelMotionOfAllChords>bool: false</allowStepwiseParallelMotionOfAllChords>
+		<fullVoicingPreference>int: 1</fullVoicingPreference>
+		<allowParallelOctaves>bool: false</allowParallelOctaves>
+		<allowParallelOctavesAtBottomOfVoicing>bool: true</allowParallelOctavesAtBottomOfVoicing>
+		<allowParallelFifths>bool: false</allowParallelFifths>
+		<ignoreParallelismWhenNumberOfPitchesDiffers>bool: false</ignoreParallelismWhenNumberOfPitchesDiffers>
+		<parallelismAllowanceInChordWithExtensionsWhenAllNotesAreStaticOrMovingByStep>int: 1</parallelismAllowanceInChordWithExtensionsWhenAllNotesAreStaticOrMovingByStep>
+		<ignoreParallelismIfVoicingBeenUsedPreviously>bool: true</ignoreParallelismIfVoicingBeenUsedPreviously>
+		<preferSingleNoteMovingByStepOverAvoidingParallelismMotivation>int: 1</preferSingleNoteMovingByStepOverAvoidingParallelismMotivation>
+		<allowSeventhChordsWithoutFifth>bool: true</allowSeventhChordsWithoutFifth>
+		<frettedInstrumentVoicingPreference>int: 0</frettedInstrumentVoicingPreference>
+		<allowParallelMotionOnFrettedInstruments>bool: true</allowParallelMotionOnFrettedInstruments>
+		<maximumPermissibleStretchInFrets>int: 4</maximumPermissibleStretchInFrets>
+		<allowPitchesOutsideOfUserLimitsForFrettedInstruments>bool: true</allowPitchesOutsideOfUserLimitsForFrettedInstruments>
+		<favourStrongResolutionsAtTopOfChordsAtExpenseOfParallelism>bool: true</favourStrongResolutionsAtTopOfChordsAtExpenseOfParallelism>
+		<contraryMotionPreference>int: 1</contraryMotionPreference>
+		<contraryMotionLimitInSemitones>int: 2</contraryMotionLimitInSemitones>
+		<onlyConsiderContraryMotionWhenVoiceLeadingVoidOfAwkwardResolutions>bool: true</onlyConsiderContraryMotionWhenVoiceLeadingVoidOfAwkwardResolutions>
+		<penaliseLeapsInLinesGreaterThanNSemitones>int: 7</penaliseLeapsInLinesGreaterThanNSemitones>
+		<preferToAvoidSmallerLeapsInLines>bool: false</preferToAvoidSmallerLeapsInLines>
+		<preferToAvoidLeapsInLinesGreaterThanNSemitones>int: 4</preferToAvoidLeapsInLinesGreaterThanNSemitones>
+		<strengthOfPreferenceToAvoidSmallerLeapsInLines>int: 30</strengthOfPreferenceToAvoidSmallerLeapsInLines>
+		<penaliseConsecutiveJumpsInSingleVoiceIfBothLargerThanNSemitones>int: 3</penaliseConsecutiveJumpsInSingleVoiceIfBothLargerThanNSemitones>
+		<allowDoublingsAtSameOctaveWhenAllVoicesMoveByStep>bool: false</allowDoublingsAtSameOctaveWhenAllVoicesMoveByStep>
+		<allowDoublingsIfVoicingHintsHaveCausedJump>bool: false</allowDoublingsIfVoicingHintsHaveCausedJump>
+		<applyHeavyPenalityToAdjacentChordsWithBothParallelFifthsAndOctaves>bool: true</applyHeavyPenalityToAdjacentChordsWithBothParallelFifthsAndOctaves>
+		<preferStepwiseMovement>bool: false</preferStepwiseMovement>
+		<impactForPreferingStepwiseMovement>int: 20</impactForPreferingStepwiseMovement>
+		<chooseVoicingsThatWillHelpToMitigateAgainstJumpsInBassLineForPolyphonicInstruments>bool: false</chooseVoicingsThatWillHelpToMitigateAgainstJumpsInBassLineForPolyphonicInstruments>
+		<voiceRepeatedPassagesInSameWay>bool: true</voiceRepeatedPassagesInSameWay>
+		<voiceRepeatedPassagesInSameWayIfSequenceComprisedOfNOrMoreSimilarChords>int: 4</voiceRepeatedPassagesInSameWayIfSequenceComprisedOfNOrMoreSimilarChords>
+		<strengthOfPenaltyForEachSemitoneOutsidePreferredRangesOfInstruments>int: 10</strengthOfPenaltyForEachSemitoneOutsidePreferredRangesOfInstruments>
+		<strengthOfPenaltyForEachSemitoneOutsidePreferredRangeOfCredentials>int: 30</strengthOfPenaltyForEachSemitoneOutsidePreferredRangeOfCredentials>
+		<strengthOfPenaltyForEachMuddySemitone>int: 30</strengthOfPenaltyForEachMuddySemitone>
+		<largestPermissibleIntervalInChord>int: 9</largestPermissibleIntervalInChord>
+		<largestPermissibleIntervalBetweenTopVoiceUsingVoicingHintsAndNeighbouringLine>int: 12</largestPermissibleIntervalBetweenTopVoiceUsingVoicingHintsAndNeighbouringLine>
+		<ignoreLargestPermissibleIntervalForFrettedInstruments>bool: true</ignoreLargestPermissibleIntervalForFrettedInstruments>
+		<allowSemitoneAtBottomOfChordForMajorSeventhAndTonic>bool: true</allowSemitoneAtBottomOfChordForMajorSeventhAndTonic>
+		<allowSemitoneAtBottomOfChordForNinthAndMinorThird>bool: true</allowSemitoneAtBottomOfChordForNinthAndMinorThird>
+		<allowSemitoneAtBottomOfChordForAllChords>bool: false</allowSemitoneAtBottomOfChordForAllChords>
+		<allowSemitoneAtTopOfChordForMajorSeventhAndTonic>bool: true</allowSemitoneAtTopOfChordForMajorSeventhAndTonic>
+		<allowSemitoneAtTopOfChordForNinthAndMinorThird>bool: true</allowSemitoneAtTopOfChordForNinthAndMinorThird>
+		<allowSemitoneAtTopOfChordForAllChords>bool: false</allowSemitoneAtTopOfChordForAllChords>
+		<allowMajorSeventhAtOctaveAboveThirteenth>bool: true</allowMajorSeventhAtOctaveAboveThirteenth>
+		<allowMajorSeventhAtOctaveAboveFlatThirteenth>bool: true</allowMajorSeventhAtOctaveAboveFlatThirteenth>
+		<allowDominantSeventhAtOctaveAboveThirteenth>bool: false</allowDominantSeventhAtOctaveAboveThirteenth>
+		<allowDominantSeventhAtOctaveAboveFlatThirteenth>bool: false</allowDominantSeventhAtOctaveAboveFlatThirteenth>
+		<allowSeventhAtOctaveAboveThirteenthInAllChords>bool: false</allowSeventhAtOctaveAboveThirteenthInAllChords>
+		<allowMinorThirdAtOctaveAboveNinth>bool: false</allowMinorThirdAtOctaveAboveNinth>
+		<allowMajorThirdAtOctaveAboveNinth>bool: true</allowMajorThirdAtOctaveAboveNinth>
+		<allowMinorThirdAtOctaveAboveFlatNinth>bool: false</allowMinorThirdAtOctaveAboveFlatNinth>
+		<allowMajorThirdAtOctaveAboveFlatNinth>bool: true</allowMajorThirdAtOctaveAboveFlatNinth>
+		<allowMajorThirdAtOctaveAboveSharpNinth>bool: false</allowMajorThirdAtOctaveAboveSharpNinth>
+		<allowThirdAtOctaveAboveNinthInAllChords>bool: false</allowThirdAtOctaveAboveNinthInAllChords>
+		<neverAllowSharpNineBelowThirdWithAbsenceOfAlteredFifth>bool: true</neverAllowSharpNineBelowThirdWithAbsenceOfAlteredFifth>
+		<ensureSeventhBelowSharpNine>bool: true</ensureSeventhBelowSharpNine>
+		<rejectVoicingsOfThirteenthChordsWithoutThirteenth>bool: true</rejectVoicingsOfThirteenthChordsWithoutThirteenth>
+		<allowSemitoneClashBetweenTonicAndFlatNine>bool: false</allowSemitoneClashBetweenTonicAndFlatNine>
+		<allowMultipleConsecutiveSemitones>bool: false</allowMultipleConsecutiveSemitones>
+		<allowDyadsOfASecond>bool: false</allowDyadsOfASecond>
+	</chordSymbolVoicerOptions>
+	<considerOctaveShiftForOctaveTransposingInstruments>bool: true</considerOctaveShiftForOctaveTransposingInstruments>
+</noteInputOptions>
