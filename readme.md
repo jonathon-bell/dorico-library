@@ -155,16 +155,17 @@ Setting                                      | Value
 **Library \| Layout Options...**
 Players » Fretted Instruments » Guitar       | Notation and tablature
 Players » Bar Rests and ... » Consolidate    | None
-Staves and Systems » Indent first system ... | 0 spaces
 **File \| Project Info...**
 Title                                        |
 Composer                                     | Jonathon Bell
 
-* In **Engraving Mode** select the **Jazz** Page Template Set and apply it to the _Guitar_ part layout.
+* In **Engraving Mode**:
+  * Select the **Jazz** page template set
+  * Apply it to the _Guitar_ part layout.
 
 * **File | Save As Project Template...** to save the project as a template:
-  * ✅ Preserve existing flows
-  * ❎ Preserve Project info
+  * ❎ Preserve existing flows
+  * ✅ Preserve Project info
 
 #### Lead Sheet
 
