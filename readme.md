@@ -177,11 +177,7 @@ To re-create it from scratch:
 * Open Dorico
 * **File | New Project From Template** and choose the "Wolery/Empty" template.
 * **File | Save As...** to save as "~/Downloads/Lead Sheet.dorico"
-* **Library | Instruments..."** to create a _Melody_ instrument (the name "Lead" is already taken):
-  * Copy the _Piano_ instrument
-  * Change its names to "Melody", "Mel", "Melody", and "Mel"
-  * Change Number of staves to 1
-* **Add Single Player** and select *Melody* as its instrument
+* **Add Single Player** and select *Melody*      as its instrument
 * **Add Single Player** and select *Jazz Guitar* as its instrument
 * In **Setup Mode**:
   * Add a layout "C"  to the _Melody_ player
@@ -208,8 +204,8 @@ Composer                                  | Jonathon Bell
 * In **Engraving Mode** select the **Jazz** Page Template Set and apply it to all part layouts.
 
 * **File | Save As Project Template...** to save the project as a template:
-  * ✅ Preserve existing flows
-  * ❎ Preserve Project info
+  * ❎ Preserve existing flows
+  * ✅ Preserve Project info
 
 ## Contributing
 
