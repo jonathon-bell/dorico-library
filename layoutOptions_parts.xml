@@ -143,7 +143,7 @@
 	<flowBreakBehaviour>int: 0</flowBreakBehaviour>
 	<flowHeadingBehaviour>int: 2</flowHeadingBehaviour>
 	<firstPageBehaviour>int: 1</firstPageBehaviour>
-	<flowFirstSystemIndent>string: &quot;6&quot;</flowFirstSystemIndent>
+	<flowFirstSystemIndent>string: &quot;0&quot;</flowFirstSystemIndent>
 	<systemObjectVisibilityOptions>
 		<showRepeatEndingLinesBelowBottomStave>bool: false</showRepeatEndingLinesBelowBottomStave>
 		<showAboveSoloist>bool: false</showAboveSoloist>

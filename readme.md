@@ -102,6 +102,7 @@ Page Setup     » Page margins » Top       | 15mm
 Page Setup     » Page margins » Bottom    | 10mm
 Page Setup     » Page margins » Left      | 15mm
 Page Setup     » Page margins » Right     | 15mm
+Staves and Systems » Indent first     ... | 0 spaces
 **Library \| Engraving Options...**
 Chord Symbols » Chord Symbol Preset       | Brandt-Roemer
 Barline Joins » Barline at end of system… | Double barline
