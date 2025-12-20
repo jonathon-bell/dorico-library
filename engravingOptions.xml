@@ -42,7 +42,7 @@
 		<continueHairpinsThroughChangesOfDynamic>bool: false</continueHairpinsThroughChangesOfDynamic>
 		<combinedDynamicsAlwaysUseSeparator>bool: false</combinedDynamicsAlwaysUseSeparator>
 		<combinedDynamicsSeparator>int: 0</combinedDynamicsSeparator>
-		<hairpinPenWidth>string: &quot;1/6&quot;</hairpinPenWidth>
+		<hairpinPenWidth>string: &quot;7/25&quot;</hairpinPenWidth>
 		<maximumHairpinOpenEndAperture>string: &quot;3/2&quot;</maximumHairpinOpenEndAperture>
 		<minimumHairpinOpenEndAperture>string: &quot;1&quot;</minimumHairpinOpenEndAperture>
 		<openEndApertureForHairpinsOverSystemBreaks>string: &quot;1&quot;</openEndApertureForHairpinsOverSystemBreaks>
@@ -96,10 +96,10 @@
 		<leftAlignImmediateDynamicsWithNoIntensityMarking>bool: true</leftAlignImmediateDynamicsWithNoIntensityMarking>
 	</dynamicsOptions>
 	<bracketingOptions>
-		<bracketWidth>string: &quot;1/2&quot;</bracketWidth>
+		<bracketWidth>string: &quot;3/4&quot;</bracketWidth>
 		<bracketEndType>int: 0</bracketEndType>
 		<subBracketWidth>string: &quot;1&quot;</subBracketWidth>
-		<subBracketLineThickness>string: &quot;1/8&quot;</subBracketLineThickness>
+		<subBracketLineThickness>string: &quot;11/50&quot;</subBracketLineThickness>
 		<bracketDistanceFromSystemicBarline>string: &quot;1/2&quot;</bracketDistanceFromSystemicBarline>
 		<bracedSubBracketDistanceFromBracket>string: &quot;3/8&quot;</bracedSubBracketDistanceFromBracket>
 		<subBracketMeetsSystemicBarline>bool: true</subBracketMeetsSystemicBarline>
@@ -119,7 +119,7 @@
 		<ledgerLineProtrusionWhenRightOfAccidental>string: &quot;1/6&quot;</ledgerLineProtrusionWhenRightOfAccidental>
 		<ledgerLineInnerProtrusionInRunOfShortBeamedNotes>string: &quot;1/5&quot;</ledgerLineInnerProtrusionInRunOfShortBeamedNotes>
 		<ledgerLineProtrusionForRests>string: &quot;1/4&quot;</ledgerLineProtrusionForRests>
-		<ledgerLineThickness>string: &quot;1/6&quot;</ledgerLineThickness>
+		<ledgerLineThickness>string: &quot;27/100&quot;</ledgerLineThickness>
 		<shortenLedgerLinesForAccidentals>bool: true</shortenLedgerLinesForAccidentals>
 		<shortenLedgerLinesInRunsOfShortBeamedNotes>bool: true</shortenLedgerLinesInRunsOfShortBeamedNotes>
 	</ledgerLineOptions>
@@ -158,8 +158,8 @@
 		<minimumGapBetweenTiesSharingStavePosition>string: &quot;1/2&quot;</minimumGapBetweenTiesSharingStavePosition>
 		<maxNumberOfSpacesBeyondNoteheadEndOfChordForTies>int: 1</maxNumberOfSpacesBeyondNoteheadEndOfChordForTies>
 		<maxNumberOfSpacesBeyondStemEndOfChordForTies>int: 2</maxNumberOfSpacesBeyondStemEndOfChordForTies>
-		<tieThickness>string: &quot;1/4&quot;</tieThickness>
-		<tieEndThickness>string: &quot;1/8&quot;</tieEndThickness>
+		<tieThickness>string: &quot;7/25&quot;</tieThickness>
+		<tieEndThickness>string: &quot;9/50&quot;</tieEndThickness>
 		<maxTieShoulderOffsetForShortTies>string: &quot;3/5&quot;</maxTieShoulderOffsetForShortTies>
 		<minTieShoulderOffsetForLongTies>string: &quot;1/10&quot;</minTieShoulderOffsetForLongTies>
 		<minTieHeightForShortTies>string: &quot;1/2&quot;</minTieHeightForShortTies>
@@ -230,7 +230,7 @@
 	</timeSignatureOptions>
 	<ottavaLineOptions>
 		<ottavaLineAppearance>int: 0</ottavaLineAppearance>
-		<ottavaLineExtensionLineThickness>string: &quot;1/12&quot;</ottavaLineExtensionLineThickness>
+		<ottavaLineExtensionLineThickness>string: &quot;3/10&quot;</ottavaLineExtensionLineThickness>
 		<optimalDashLengthForOttavaLines>string: &quot;3/4&quot;</optimalDashLengthForOttavaLines>
 		<optimalDashGapLengthForOttavaLines>string: &quot;3/4&quot;</optimalDashGapLengthForOttavaLines>
 		<optimalDotDiameterForOttavaLines>string: &quot;1/6&quot;</optimalDotDiameterForOttavaLines>
@@ -259,7 +259,7 @@
 		<considerWidthOfRhythmDotsForRHSAlignment>bool: true</considerWidthOfRhythmDotsForRHSAlignment>
 	</ottavaLineOptions>
 	<tupletOptions>
-		<tupletBracketLineWidth>string: &quot;1/8&quot;</tupletBracketLineWidth>
+		<tupletBracketLineWidth>string: &quot;17/100&quot;</tupletBracketLineWidth>
 		<tupletHookLength>string: &quot;3/4&quot;</tupletHookLength>
 		<tupletEndPosition>int: 2</tupletEndPosition>
 		<tupletGapAfterEndPosition>string: &quot;1/2&quot;</tupletGapAfterEndPosition>
@@ -281,7 +281,7 @@
 		<tupletsAlwaysAbove>int: 1</tupletsAlwaysAbove>
 	</tupletOptions>
 	<staveOptions>
-		<staveLineThickness>string: &quot;1/8&quot;</staveLineThickness>
+		<staveLineThickness>string: &quot;9/100&quot;</staveLineThickness>
 		<ossiaScaleFactor>string: &quot;2/3&quot;</ossiaScaleFactor>
 		<midBarOssiaStartStaveLinePadding>string: &quot;1&quot;</midBarOssiaStartStaveLinePadding>
 		<midBarOssiaEndStaveLinePadding>string: &quot;0&quot;</midBarOssiaEndStaveLinePadding>
@@ -295,7 +295,7 @@
 		<graceNoteDefaultSlashInsetFromStemTip>string: &quot;1&quot;</graceNoteDefaultSlashInsetFromStemTip>
 		<graceNoteDefaultSlashOffsetToRight>string: &quot;1/2&quot;</graceNoteDefaultSlashOffsetToRight>
 		<graceNoteSlashMinimumProtrusionFromBeam>string: &quot;1&quot;</graceNoteSlashMinimumProtrusionFromBeam>
-		<defaultNoteheadSet>string: &quot;noteheadset.large&quot;</defaultNoteheadSet>
+		<defaultNoteheadSet>string: &quot;noteheadset.default&quot;</defaultNoteheadSet>
 		<defaultRestSet>string: &quot;restset.default&quot;</defaultRestSet>
 		<offsetNoteShapesForMinorKeysWhenUsingScaleDegreeNoteheadType>bool: true</offsetNoteShapesForMinorKeysWhenUsingScaleDegreeNoteheadType>
 		<preferredAppearanceForBreveNotehead>int: 1</preferredAppearanceForBreveNotehead>
@@ -443,7 +443,7 @@
 		<minimumDistanceBetweenOutsideOfTremoloAndInsideOfInnerBeam>string: &quot;1/4&quot;</minimumDistanceBetweenOutsideOfTremoloAndInsideOfInnerBeam>
 		<minimumDistanceBetweenOutsideOfTremoloAndTipOfBareStem>string: &quot;1/4&quot;</minimumDistanceBetweenOutsideOfTremoloAndTipOfBareStem>
 		<minimumDistanceBetweenInsideOfTremoloAndOutermostNotehead>string: &quot;17/20&quot;</minimumDistanceBetweenInsideOfTremoloAndOutermostNotehead>
-		<stemThickness>string: &quot;3/25&quot;</stemThickness>
+		<stemThickness>string: &quot;1/5&quot;</stemThickness>
 		<allowContextualStemDirections>bool: true</allowContextualStemDirections>
 		<shortStemLengthForQuaver>string: &quot;3&quot;</shortStemLengthForQuaver>
 		<attemptToShortenBeamedStemsSlightly>bool: false</attemptToShortenBeamedStemsSlightly>
@@ -486,8 +486,8 @@
 		<longSlurShoulder>string: &quot;1/3&quot;</longSlurShoulder>
 		<shortSlurThresholdForShoulder>string: &quot;7&quot;</shortSlurThresholdForShoulder>
 		<longSlurThresholdForShoulder>string: &quot;32&quot;</longSlurThresholdForShoulder>
-		<slurEndThickness>string: &quot;1/12&quot;</slurEndThickness>
-		<slurMiddleThickness>string: &quot;1/5&quot;</slurMiddleThickness>
+		<slurEndThickness>string: &quot;9/50&quot;</slurEndThickness>
+		<slurMiddleThickness>string: &quot;7/25&quot;</slurMiddleThickness>
 		<dashedSlurDashLength>string: &quot;1/2&quot;</dashedSlurDashLength>
 		<dashedSlurGapLength>string: &quot;1/3&quot;</dashedSlurGapLength>
 		<dottedSlurGapLength>string: &quot;1/3&quot;</dottedSlurGapLength>
@@ -751,7 +751,7 @@
 		<minimumPaddingAroundCircularMarks>string: &quot;1/4&quot;</minimumPaddingAroundCircularMarks>
 		<minimumDistanceFromStave>string: &quot;3&quot;</minimumDistanceFromStave>
 		<rehearsalMarkBaseAlignment>int: 0</rehearsalMarkBaseAlignment>
-		<rehearsalMarkEnclosurePenWidth>string: &quot;1/8&quot;</rehearsalMarkEnclosurePenWidth>
+		<rehearsalMarkEnclosurePenWidth>string: &quot;9/25&quot;</rehearsalMarkEnclosurePenWidth>
 		<sequenceTypeForAlphabetics>int: 0</sequenceTypeForAlphabetics>
 		<noteRelativeHorizontalAlignment>int: 1</noteRelativeHorizontalAlignment>
 		<minimumGapAboveOrBelowOtherObjects>string: &quot;3/4&quot;</minimumGapAboveOrBelowOtherObjects>
@@ -775,7 +775,7 @@
 		<idealDistanceFromStave>string: &quot;3/2&quot;</idealDistanceFromStave>
 		<distanceBetweenLyricLines>string: &quot;1&quot;</distanceBetweenLyricLines>
 		<extenderLineMinimumWidth>string: &quot;1&quot;</extenderLineMinimumWidth>
-		<extenderLineThickness>string: &quot;1/16&quot;</extenderLineThickness>
+		<extenderLineThickness>string: &quot;1/5&quot;</extenderLineThickness>
 		<extenderLineGapAtStart>string: &quot;1/8&quot;</extenderLineGapAtStart>
 		<extenderLineGapAtEndOfSystem>string: &quot;1&quot;</extenderLineGapAtEndOfSystem>
 		<minimumSpaceForHyphen>string: &quot;1&quot;</minimumSpaceForHyphen>
@@ -807,16 +807,16 @@
 		<extraPunctuation>string: &quot;&quot;</extraPunctuation>
 	</lyricOptions>
 	<barlineOptions>
-		<thinBarlineThickness>string: &quot;1/5&quot;</thinBarlineThickness>
-		<thickBarlineThickness>string: &quot;1/2&quot;</thickBarlineThickness>
-		<doubleBarlineGap>string: &quot;1/2&quot;</doubleBarlineGap>
+		<thinBarlineThickness>string: &quot;1/4&quot;</thinBarlineThickness>
+		<thickBarlineThickness>string: &quot;3/4&quot;</thickBarlineThickness>
+		<doubleBarlineGap>string: &quot;2/5&quot;</doubleBarlineGap>
 		<finalOrRepeatBarlineGap>string: &quot;1/2&quot;</finalOrRepeatBarlineGap>
 		<thickThickRepeatBarlineGap>string: &quot;2/5&quot;</thickThickRepeatBarlineGap>
-		<gapBetweenOutermostLineAndRepeatDots>string: &quot;1/2&quot;</gapBetweenOutermostLineAndRepeatDots>
+		<gapBetweenOutermostLineAndRepeatDots>string: &quot;4/25&quot;</gapBetweenOutermostLineAndRepeatDots>
 		<repeatBarlineDotBehaviour>int: 0</repeatBarlineDotBehaviour>
 		<coincidentStartAndEndRepeatBarlineBehaviour>int: 0</coincidentStartAndEndRepeatBarlineBehaviour>
-		<dashedBarlineDashLength>string: &quot;2/3&quot;</dashedBarlineDashLength>
-		<dashedBarlineGapLength>string: &quot;2/3&quot;</dashedBarlineGapLength>
+		<dashedBarlineDashLength>string: &quot;1/2&quot;</dashedBarlineDashLength>
+		<dashedBarlineGapLength>string: &quot;1/4&quot;</dashedBarlineGapLength>
 		<showDoubleBarlinesAtChangesOfKeySignature>bool: true</showDoubleBarlinesAtChangesOfKeySignature>
 		<breakBarlinesOnVocalStaves>bool: true</breakBarlinesOnVocalStaves>
 		<joinCoincidentBarlinesOfStavesInDifferentTimeSignatures>bool: false</joinCoincidentBarlinesOfStavesInDifferentTimeSignatures>
@@ -932,7 +932,7 @@
 		<minimumTopPaddingAroundRectangularEnclosures>string: &quot;1/8&quot;</minimumTopPaddingAroundRectangularEnclosures>
 		<minimumBottomPaddingAroundRectangularEnclosures>string: &quot;1/8&quot;</minimumBottomPaddingAroundRectangularEnclosures>
 		<minimumPaddingAroundCircularEnclosures>string: &quot;1/6&quot;</minimumPaddingAroundCircularEnclosures>
-		<barNumberEnclosurePenWidth>string: &quot;1/8&quot;</barNumberEnclosurePenWidth>
+		<barNumberEnclosurePenWidth>string: &quot;9/25&quot;</barNumberEnclosurePenWidth>
 		<countRepeatStructures>bool: false</countRepeatStructures>
 		<gapAboveTrebleGClef>string: &quot;2&quot;</gapAboveTrebleGClef>
 		<gapBelowTrebleGClef>string: &quot;3/2&quot;</gapBelowTrebleGClef>

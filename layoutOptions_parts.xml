@@ -40,17 +40,17 @@
 	</verticalStaveGapOptions>
 	<showBarRestsInEmptyBars>bool: true</showBarRestsInEmptyBars>
 	<pageSizeAndMarginOptions>
-		<pageWidth>string: &quot;594&quot;</pageWidth>
-		<pageHeight>string: &quot;841&quot;</pageHeight>
+		<pageWidth>string: &quot;612&quot;</pageWidth>
+		<pageHeight>string: &quot;792&quot;</pageHeight>
 		<pageMargins>
 			<type>int: 1</type>
 			<margins>
-				<outer>string: &quot;42&quot;</outer>
-				<inner>string: &quot;42&quot;</inner>
-				<top>string: &quot;42&quot;</top>
-				<bottom>string: &quot;42&quot;</bottom>
+				<outer>string: &quot;42.5197&quot;</outer>
+				<inner>string: &quot;42.5197&quot;</inner>
+				<top>string: &quot;42.5197&quot;</top>
+				<bottom>string: &quot;28.3465&quot;</bottom>
 			</margins>
-			<extraMargins/>
+			<extraMargins>list: {string: &quot;42.5197&quot;}, {string: &quot;42.5197&quot;}, {string: &quot;42.5197&quot;}, {string: &quot;28.3465&quot;}</extraMargins>
 		</pageMargins>
 		<defaultMusicFrameTopPadding>string: &quot;40&quot;</defaultMusicFrameTopPadding>
 		<defaultMusicFrameBottomPadding>string: &quot;30&quot;</defaultMusicFrameBottomPadding>
@@ -208,7 +208,7 @@
 	<barConsolidationBehaviour>int: 1</barConsolidationBehaviour>
 	<repeatMarkerOptions>
 		<wordWrapJumpQualificationsByDefault>bool: false</wordWrapJumpQualificationsByDefault>
-		<staveRelativePositioning>int: 0</staveRelativePositioning>
+		<staveRelativePositioning>int: 1</staveRelativePositioning>
 	</repeatMarkerOptions>
 	<tacetOptions>
 		<showTacets>bool: true</showTacets>
