@@ -111,7 +111,7 @@ Rests » Multi-bar Rests » Bar count for...| No bar count
 Metronome Click » Click Sound             | Wood Block
 Note Dynamics » Marcato » Increase by     | 1.0
 **File \| Project Info...**
-Title                                     | <blank>
+Title                                     |
 Copyist                                   | Jonathon Bell
 Copyright                                 | Copyright © {@projectcompositionyear@} {@projectcomposer@}
 Other information                         | Cambridge {@projectcompositionyear@}
@@ -127,8 +127,8 @@ Resolve Markdown ...                      | ❎
   * Apply the imported set to the Full Score layout
 * Remove the _MelodyFlute_ player and its part layout
 * **File | Save As Project Template...** to save the project as a template:
-  * ✅ Preserve existing flows
-  * ❎ Preserve Project info
+  * ❎ Preserve existing flows
+  * ✅ Preserve Project info
 
 #### Guitar
 
@@ -153,7 +153,7 @@ Players » Fretted Instruments » Guitar       | Notation and tablature
 Players » Bar Rests and ... » Consolidate    | None
 Staves and Systems » Indent first system ... | 0 spaces
 **File \| Project Info...**
-Title                                        | <blank>
+Title                                        |
 Composer                                     | Jonathon Bell
 
 * In **Engraving Mode** select the **Jazz** Page Template Set and apply it to the _Guitar_ part layout.
@@ -197,7 +197,7 @@ Players » Fretted Instruments Guitar      | Notation and tablature
 Players » Bar rests and ... » Consolidate | None
 Casting Off » Fixed bars per system       | 4
 **File \| Project Info...**
-Title                                     | <blank>
+Title                                     |
 Composer                                  | Jonathon Bell
 
 * In **Engraving Mode** select the **Jazz** Page Template Set and apply it to all part layouts.
