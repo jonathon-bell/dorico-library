@@ -65,7 +65,7 @@ To re-create it from scratch:
   * Change Families to Sketch
   * Change Number of staves to 1
   * Change Rhythm section instrument to ❎
-  * Enable the ⭐️ button to Save as Default (i.e. add to userlibrary.xml)
+  * Enable the ⭐️ button to **Save as Default** (i.e. add to userlibrary.xml)
 * **Add Single Payer** and select *Melody* as its instrument
 * Modify the following settings in the order listed below:
 
