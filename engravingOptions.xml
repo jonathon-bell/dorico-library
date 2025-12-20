@@ -820,12 +820,12 @@
 		<showDoubleBarlinesAtChangesOfKeySignature>bool: true</showDoubleBarlinesAtChangesOfKeySignature>
 		<breakBarlinesOnVocalStaves>bool: true</breakBarlinesOnVocalStaves>
 		<joinCoincidentBarlinesOfStavesInDifferentTimeSignatures>bool: false</joinCoincidentBarlinesOfStavesInDifferentTimeSignatures>
-		<startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>bool: false</startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>
+		<startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>bool: true</startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>
 		<showDoubleBarlineBeforeMidSystemGap>bool: false</showDoubleBarlineBeforeMidSystemGap>
 		<barlineLengthForSingleLineInstruments>string: &quot;1&quot;</barlineLengthForSingleLineInstruments>
 		<maxNumberOfStaveLinesForSingleLineBarlineLength>int: 2</maxNumberOfStaveLinesForSingleLineBarlineLength>
 		<barlinesOnPercussionGridsAlwaysProtrude>bool: true</barlinesOnPercussionGridsAlwaysProtrude>
-		<showWingsOnRepeatBarlines>bool: false</showWingsOnRepeatBarlines>
+		<showWingsOnRepeatBarlines>bool: true</showWingsOnRepeatBarlines>
 		<additionalThickBarlineProtrusionForWings>string: &quot;1/4&quot;</additionalThickBarlineProtrusionForWings>
 		<ossiaBarlineBehaviour>int: 0</ossiaBarlineBehaviour>
 		<ossiaBarlineJoinType>int: 1</ossiaBarlineJoinType>
@@ -977,7 +977,7 @@
 		<maxMultiRestBarWidthBarCountThreshold>int: 10</maxMultiRestBarWidthBarCountThreshold>
 		<showTacetAlFine>bool: true</showTacetAlFine>
 		<alwaysShowBarRestForSingleBar>bool: true</alwaysShowBarRestForSingleBar>
-		<showOneAboveSingleBarRest>bool: true</showOneAboveSingleBarRest>
+		<showOneAboveSingleBarRest>bool: false</showOneAboveSingleBarRest>
 		<minimumSpaceForMultiRestOrTacet>string: &quot;4&quot;</minimumSpaceForMultiRestOrTacet>
 		<minimumSpaceForTacetAlFine>string: &quot;8&quot;</minimumSpaceForTacetAlFine>
 		<multiRestSpacingScaleOnOverfullSystems>double: 0.7</multiRestSpacingScaleOnOverfullSystems>
@@ -1099,49 +1099,49 @@
 		<solfeggioPreferenceForNoteD>int: 0</solfeggioPreferenceForNoteD>
 		<solfeggioPreferenceForNoteG>int: 0</solfeggioPreferenceForNoteG>
 		<solfeggioPreferenceForNoteB>int: 1</solfeggioPreferenceForNoteB>
-		<rootAndBassNoteAccidentalPosition>int: 0</rootAndBassNoteAccidentalPosition>
+		<rootAndBassNoteAccidentalPosition>int: 1</rootAndBassNoteAccidentalPosition>
 		<nashvilleNoteNameAccidentalPosition>int: 1</nashvilleNoteNameAccidentalPosition>
 		<nashvilleNoteNameAccidentalAppearance>int: 0</nashvilleNoteNameAccidentalAppearance>
 		<majorQualityAppearance>int: 0</majorQualityAppearance>
-		<minorQualityAppearance>int: 0</minorQualityAppearance>
-		<majorAndMinorQualityPosition>int: 0</majorAndMinorQualityPosition>
-		<majorSeventhIntervalAppearance>int: 3</majorSeventhIntervalAppearance>
-		<majorSeventhPosition>int: 0</majorSeventhPosition>
+		<minorQualityAppearance>int: 2</minorQualityAppearance>
+		<majorAndMinorQualityPosition>int: 2</majorAndMinorQualityPosition>
+		<majorSeventhIntervalAppearance>int: 1</majorSeventhIntervalAppearance>
+		<majorSeventhPosition>int: 2</majorSeventhPosition>
 		<show7InMajorSeventhChords>bool: true</show7InMajorSeventhChords>
-		<majorSeventhIntervalAppearanceInMinorOrAugmentedChords>int: 3</majorSeventhIntervalAppearanceInMinorOrAugmentedChords>
-		<majorSeventhPositionInMinorAndAugmentedChords>int: 0</majorSeventhPositionInMinorAndAugmentedChords>
+		<majorSeventhIntervalAppearanceInMinorOrAugmentedChords>int: 1</majorSeventhIntervalAppearanceInMinorOrAugmentedChords>
+		<majorSeventhPositionInMinorAndAugmentedChords>int: 1</majorSeventhPositionInMinorAndAugmentedChords>
 		<show7InMinorAndAugmentedChordsWithMajorSeventh>bool: true</show7InMinorAndAugmentedChordsWithMajorSeventh>
-		<majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>int: 1</majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>
+		<majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>int: 0</majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>
 		<parenthesiseMajorSeventhInMinorAndAugmentedChords>bool: true</parenthesiseMajorSeventhInMinorAndAugmentedChords>
 		<majorSeventhRepresentationWithOtherExtensionForOtherChords>int: 1</majorSeventhRepresentationWithOtherExtensionForOtherChords>
-		<diminishedSeventhQualityAppearance>int: 0</diminishedSeventhQualityAppearance>
+		<diminishedSeventhQualityAppearance>int: 4</diminishedSeventhQualityAppearance>
 		<diminishedTriadQualityAppearance>int: 3</diminishedTriadQualityAppearance>
 		<diminishedTextPosition>int: 0</diminishedTextPosition>
 		<diminishedCirclePosition>int: 1</diminishedCirclePosition>
 		<halfDiminishedChordAppearance>int: 0</halfDiminishedChordAppearance>
 		<halfDiminishedSlashedOPosition>int: 1</halfDiminishedSlashedOPosition>
-		<intervalPosition>int: 0</intervalPosition>
-		<showIntervalSuperscriptWhenUsingSubscriptPosition>bool: false</showIntervalSuperscriptWhenUsingSubscriptPosition>
+		<intervalPosition>int: 1</intervalPosition>
+		<showIntervalSuperscriptWhenUsingSubscriptPosition>bool: true</showIntervalSuperscriptWhenUsingSubscriptPosition>
 		<showIntervalSuperscriptWhenUsingBaselinePosition>bool: false</showIntervalSuperscriptWhenUsingBaselinePosition>
-		<sixSlashNineAppearance>int: 3</sixSlashNineAppearance>
+		<sixSlashNineAppearance>int: 0</sixSlashNineAppearance>
 		<identifySixNineChordsAsSuchWhenAlterationsPresent>bool: true</identifySixNineChordsAsSuchWhenAlterationsPresent>
 		<openFifthAppearance>int: 1</openFifthAppearance>
-		<capitaliseSusAndAugText>bool: false</capitaliseSusAndAugText>
-		<susPosition>int: 0</susPosition>
-		<sus4Appearance>int: 0</sus4Appearance>
+		<capitaliseSusAndAugText>bool: true</capitaliseSusAndAugText>
+		<susPosition>int: 2</susPosition>
+		<sus4Appearance>int: 1</sus4Appearance>
 		<sus2Appearance>int: 0</sus2Appearance>
-		<augPosition>int: 0</augPosition>
-		<augmentedQualityAppearance>int: 0</augmentedQualityAppearance>
+		<augPosition>int: 2</augPosition>
+		<augmentedQualityAppearance>int: 1</augmentedQualityAppearance>
 		<positionAugmentedQualityAfterInterval>bool: false</positionAugmentedQualityAfterInterval>
 		<positionForAlterations>int: 1</positionForAlterations>
 		<parenthesiseAlterations>int: 0</parenthesiseAlterations>
-		<capitaliseTextBasedAlterations>bool: false</capitaliseTextBasedAlterations>
+		<capitaliseTextBasedAlterations>bool: true</capitaliseTextBasedAlterations>
 		<omissionText>int: 0</omissionText>
 		<alterationAccidentalStyle>int: 0</alterationAccidentalStyle>
 		<alterationArrangement>int: 0</alterationArrangement>
 		<alterationAccidentalPosition>int: 1</alterationAccidentalPosition>
 		<includeAddForAdditions>int: 0</includeAddForAdditions>
-		<relativePositionsForChordWithAlteredBassNote>int: 2</relativePositionsForChordWithAlteredBassNote>
+		<relativePositionsForChordWithAlteredBassNote>int: 0</relativePositionsForChordWithAlteredBassNote>
 		<useJapaneseAlteredBassNoteStyle>bool: false</useJapaneseAlteredBassNoteStyle>
 		<relativePositionsInPolychord>int: 1</relativePositionsInPolychord>
 		<compoundChordSeparatorLineWidth>string: &quot;1/10&quot;</compoundChordSeparatorLineWidth>
@@ -1150,10 +1150,10 @@
 		<centreStackedAlterationsVerticallyOnRoot>bool: true</centreStackedAlterationsVerticallyOnRoot>
 		<verticalOffsetForAlterationParentheses>string: &quot;1/4&quot;</verticalOffsetForAlterationParentheses>
 		<centreAlignStackedAlterations>bool: false</centreAlignStackedAlterations>
-		<alteredChordSymbolAppearance>int: 1</alteredChordSymbolAppearance>
+		<alteredChordSymbolAppearance>int: 5</alteredChordSymbolAppearance>
 		<showAltForAlteredChords>int: 3</showAltForAlteredChords>
-		<positionForAlteredChordAlt>int: 0</positionForAlteredChordAlt>
-		<showAltForAlteredChordsInParentheses>bool: false</showAltForAlteredChordsInParentheses>
+		<positionForAlteredChordAlt>int: 1</positionForAlteredChordAlt>
+		<showAltForAlteredChordsInParentheses>bool: true</showAltForAlteredChordsInParentheses>
 		<transposedChordSpellingPreference>int: 0</transposedChordSpellingPreference>
 		<enforceCleanIntervallicRelationshipBetweenRootAndAlteredBass>bool: true</enforceCleanIntervallicRelationshipBetweenRootAndAlteredBass>
 		<chordSymbolRootOnlyAppearance>int: 0</chordSymbolRootOnlyAppearance>
