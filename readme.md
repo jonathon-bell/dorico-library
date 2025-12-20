@@ -125,7 +125,7 @@ Resolve Markdown ...                      | ❎
   * Switch to **Engraving Mode**
   * Import the custom page template set from an existing project
   * Apply the imported set to the Full Score layout
-* Remove the _MelodyFlute_ player and its part layout
+* Remove the _Melody_ player and its part layout
 * **File | Save As Project Template...** to save the project as a template:
   * ❎ Preserve existing flows
   * ✅ Preserve Project info
