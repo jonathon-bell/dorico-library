@@ -66,7 +66,7 @@ To re-create it from scratch:
   * Change Number of staves to 1
   * Change Rhythm section instrument to ❎
   * Enable the ⭐️ button to **Save as Default** (i.e. add to userlibrary.xml)
-* **Add Single Payer** and select *Melody* as its instrument
+* **Add Single Player** and select *Melody* as its instrument
 * Modify the following settings in the order listed below:
 
 Setting                                   | Value
@@ -140,7 +140,7 @@ To re-create it from scratch:
 * Open Dorico
 * **File | New Project From Template** and choose the "Wolery/Empty" template.
 * **File | Save As...** to save as "~/Downloads/Guitar.dorico"
-* **Add Single Payer** and select *Jazz Guitar* as its instrument
+* **Add Single Player** and select *Jazz Guitar* as its instrument
 * In **Setup Mode**:
   * Rename the player "Guitar"
   * Remove the "Full Score" layout
@@ -176,8 +176,8 @@ To re-create it from scratch:
   * Copy the _Piano_ instrument
   * Change its names to "Melody", "Mel", "Melody", and "Mel"
   * Change Number of staves to 1
-* **Add Single Payer** and select *Melody* as its instrument
-* **Add Single Payer** and select *Jazz Guitar* as its instrument
+* **Add Single Player** and select *Melody* as its instrument
+* **Add Single Player** and select *Jazz Guitar* as its instrument
 * In **Setup Mode**:
   * Add a layout "C"  to the _Melody_ player
   * Add a layout "B♭" to the _Melody_ player and transpose to B♭3
