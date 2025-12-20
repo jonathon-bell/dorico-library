@@ -122,10 +122,13 @@ Resolve Markdown ...                      | ❎
 * **Save as Default** each modification where appropriate:
   * For font related settings, enable the selected item's ⭐️ button
   * For _Options..._ dialogs, click the **Save as Default** button in the bottom left hand corner of the dialog
-* Install the **Jazz** page template set:
-  * Switch to **Engraving Mode**
+* In **Engraving Mode**:
   * Import the custom page template set from an existing project
+  * Rename the set "Jazz"
   * Apply the imported set to the Full Score layout
+* In **Playback Mode**:
+  * Assign "Synth Pluck & Pad" to slot 1 of HALeon Sonic instance 1
+  * Assign _Chords_ to HALeon Sonic instance 1, port 1, channel 1
 * Remove the _Melody_ player and its part layout
 * **File | Save As Project Template...** to save the project as a template:
   * ❎ Preserve existing flows
