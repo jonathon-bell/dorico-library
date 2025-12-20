@@ -81,7 +81,7 @@ Music Fonts                               | Rhapsody (❎ fonts ✅ engraving op
 **Library \| Font Styles...**
 Chord Symbols Alt Bass Sep Font           | Rhapsody Alpha         12.0
 Chord Symbols Font                        | Rhapsody Alpha         18.0
-Chord Symbols Music Text Font             | Rhapsody               18.0
+Chord Symbols Music Text Font             | Rhapsody Text          18.0
 Default Music Font                        | Rhapsody
 Default Music Text Font                   | Rhapsody Text
 Default Text Font                         | Rhapsody Alpha

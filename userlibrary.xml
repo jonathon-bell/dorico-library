@@ -305,4 +305,329 @@
 			</InstrumentScoreOrderEntityDefinition>
 		</entities>
 	</instrumentScoreOrders>
+	<fontstyles>
+		<entities array="true">
+			<FontStyleEntityDefinition>
+				<name>Chord Symbols Altered Bass Separator Font</name>
+				<entityID>font.chordsymbolsbassseparator</entityID>
+				<parentEntityID>font.defaulttext</parentEntityID>
+				<inheritanceMask>0x1A3</inheritanceMask>
+				<fontname>Rhapsody Alpha</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 12</size>
+				<weight>kNormal</weight>
+				<italic>true</italic>
+				<underlined>false</underlined>
+				<namedStyle>Italic</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: </substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+			<FontStyleEntityDefinition>
+				<name>Chord Symbols Font</name>
+				<entityID>font.chordsymbols</entityID>
+				<parentEntityID>font.defaulttext</parentEntityID>
+				<inheritanceMask>0x183</inheritanceMask>
+				<fontname>Rhapsody Alpha</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 18</size>
+				<weight>kNormal</weight>
+				<italic>false</italic>
+				<underlined>false</underlined>
+				<namedStyle>Regular</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: </substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+			<FontStyleEntityDefinition>
+				<name>Chord Symbols Music Text Font</name>
+				<entityID>font.chordsymbolsmusictext</entityID>
+				<parentEntityID>font.defaultmusictext</parentEntityID>
+				<inheritanceMask>0x183</inheritanceMask>
+				<fontname>Rhapsody Text</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 18</size>
+				<weight>kNormal</weight>
+				<italic>false</italic>
+				<underlined>false</underlined>
+				<namedStyle>Regular</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: </substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+			<FontStyleEntityDefinition>
+				<name>Default Music Font</name>
+				<entityID>font.defaultmusic</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<fontname>Rhapsody</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 20</size>
+				<weight>kNormal</weight>
+				<italic>false</italic>
+				<underlined>false</underlined>
+				<namedStyle>Regular</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: {string: &quot;Bravura&quot;}</substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+			<FontStyleEntityDefinition>
+				<name>Default Music Text Font</name>
+				<entityID>font.defaultmusictext</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<fontname>Rhapsody Text</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 10</size>
+				<weight>kNormal</weight>
+				<italic>false</italic>
+				<underlined>false</underlined>
+				<namedStyle>Regular</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: </substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+			<FontStyleEntityDefinition>
+				<name>Default Text Font</name>
+				<entityID>font.defaulttext</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<fontname>Rhapsody Alpha</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 10</size>
+				<weight>kNormal</weight>
+				<italic>false</italic>
+				<underlined>false</underlined>
+				<namedStyle>Regular</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: </substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+			<FontStyleEntityDefinition>
+				<name>Tablature Numbers Font</name>
+				<entityID>font.tabnumbers</entityID>
+				<parentEntityID>font.defaulttext</parentEntityID>
+				<inheritanceMask>0x1A2</inheritanceMask>
+				<fontname>Rhapsody Alpha</fontname>
+				<colour>kDefault</colour>
+				<size>kStaveRelativeSize, 8</size>
+				<weight>kBold</weight>
+				<italic>false</italic>
+				<underlined>false</underlined>
+				<namedStyle>Bold</namedStyle>
+				<substituteFamilyNames>steamVariantList:list: </substituteFamilyNames>
+				<fontFeatures array="true"/>
+			</FontStyleEntityDefinition>
+		</entities>
+	</fontstyles>
+	<paragraphStyles>
+		<entities array="true">
+			<ParagraphStyleEntityDefinition>
+				<name>Artist</name>
+				<entityID>paragraph.user.default_text_2</entityID>
+				<parentEntityID>paragraph.defaulttext</parentEntityID>
+				<inheritanceMask>0xFFFFFFFF</inheritanceMask>
+				<paragraphStyle>
+					<fontname>Rhapsody Alpha</fontname>
+					<size>kStaveRelativeSize, 12</size>
+					<alignment>kLeft</alignment>
+					<indent>0</indent>
+					<extraFirstLineIndent>0</extraFirstLineIndent>
+					<gapAfterParagraph>0</gapAfterParagraph>
+					<leading>100</leading>
+					<fontStyle>Regular</fontStyle>
+					<fontStretch>100</fontStretch>
+					<letterSpacing>0</letterSpacing>
+					<wordSpacing>0</wordSpacing>
+					<underline>false</underline>
+					<overline>false</overline>
+					<borderThickness>1</borderThickness>
+					<border>false</border>
+					<alignWithSystemStart>false</alignWithSystemStart>
+					<borderStyle>kRectangle</borderStyle>
+					<placement>kAbove</placement>
+					<distanceFromStaff>3</distanceFromStaff>
+					<horizontalOffset>0</horizontalOffset>
+					<avoidCollisions>true</avoidCollisions>
+					<textCase>kDefaultCase</textCase>
+					<borderPadding>
+						<top>0</top>
+						<bottom>0</bottom>
+						<left>0</left>
+						<right>0</right>
+					</borderPadding>
+					<fontFeatures array="true"/>
+				</paragraphStyle>
+			</ParagraphStyleEntityDefinition>
+			<ParagraphStyleEntityDefinition>
+				<name>Default Text</name>
+				<entityID>paragraph.defaulttext</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<paragraphStyle>
+					<fontname>Rhapsody Alpha</fontname>
+					<size>kStaveRelativeSize, 12</size>
+					<alignment>kLeft</alignment>
+					<indent>0</indent>
+					<extraFirstLineIndent>0</extraFirstLineIndent>
+					<gapAfterParagraph>0</gapAfterParagraph>
+					<leading>100</leading>
+					<fontStyle>Regular</fontStyle>
+					<fontStretch>100</fontStretch>
+					<letterSpacing>0</letterSpacing>
+					<wordSpacing>0</wordSpacing>
+					<underline>false</underline>
+					<overline>false</overline>
+					<borderThickness>1</borderThickness>
+					<border>false</border>
+					<alignWithSystemStart>false</alignWithSystemStart>
+					<borderStyle>kRectangle</borderStyle>
+					<placement>kAbove</placement>
+					<distanceFromStaff>3</distanceFromStaff>
+					<horizontalOffset>0</horizontalOffset>
+					<avoidCollisions>true</avoidCollisions>
+					<textCase>kDefaultCase</textCase>
+					<borderPadding>
+						<top>0</top>
+						<bottom>0</bottom>
+						<left>0</left>
+						<right>0</right>
+					</borderPadding>
+					<fontFeatures array="true"/>
+				</paragraphStyle>
+			</ParagraphStyleEntityDefinition>
+			<ParagraphStyleEntityDefinition>
+				<name>Layout name</name>
+				<entityID>paragraph.layoutname</entityID>
+				<parentEntityID>paragraph.defaulttext</parentEntityID>
+				<inheritanceMask>0x3FD9F78</inheritanceMask>
+				<paragraphStyle>
+					<fontname>Rhapsody Alpha</fontname>
+					<size>kAbsoluteSize, 14</size>
+					<alignment>kLeft</alignment>
+					<indent>0</indent>
+					<extraFirstLineIndent>0</extraFirstLineIndent>
+					<gapAfterParagraph>0</gapAfterParagraph>
+					<leading>100</leading>
+					<fontStyle>Regular</fontStyle>
+					<fontStretch>100</fontStretch>
+					<letterSpacing>0</letterSpacing>
+					<wordSpacing>0</wordSpacing>
+					<underline>false</underline>
+					<overline>false</overline>
+					<borderThickness>0.62</borderThickness>
+					<border>false</border>
+					<alignWithSystemStart>false</alignWithSystemStart>
+					<borderStyle>kRectangle</borderStyle>
+					<placement>kAbove</placement>
+					<distanceFromStaff>3</distanceFromStaff>
+					<horizontalOffset>0</horizontalOffset>
+					<avoidCollisions>true</avoidCollisions>
+					<textCase>kDefaultCase</textCase>
+					<borderPadding>
+						<top>0</top>
+						<bottom>0</bottom>
+						<left>2.48</left>
+						<right>2.48</right>
+					</borderPadding>
+					<fontFeatures array="true"/>
+				</paragraphStyle>
+			</ParagraphStyleEntityDefinition>
+			<ParagraphStyleEntityDefinition>
+				<name>Print Date</name>
+				<entityID>paragraph.user.default_text_21</entityID>
+				<parentEntityID>paragraph.defaulttext</parentEntityID>
+				<inheritanceMask>0xFFFFFFFD</inheritanceMask>
+				<paragraphStyle>
+					<fontname>Rhapsody Alpha</fontname>
+					<size>kStaveRelativeSize, 8</size>
+					<alignment>kLeft</alignment>
+					<indent>0</indent>
+					<extraFirstLineIndent>0</extraFirstLineIndent>
+					<gapAfterParagraph>0</gapAfterParagraph>
+					<leading>100</leading>
+					<fontStyle>Regular</fontStyle>
+					<fontStretch>100</fontStretch>
+					<letterSpacing>0</letterSpacing>
+					<wordSpacing>0</wordSpacing>
+					<underline>false</underline>
+					<overline>false</overline>
+					<borderThickness>1</borderThickness>
+					<border>false</border>
+					<alignWithSystemStart>false</alignWithSystemStart>
+					<borderStyle>kRectangle</borderStyle>
+					<placement>kAbove</placement>
+					<distanceFromStaff>3</distanceFromStaff>
+					<horizontalOffset>0</horizontalOffset>
+					<avoidCollisions>true</avoidCollisions>
+					<textCase>kDefaultCase</textCase>
+					<borderPadding>
+						<top>0</top>
+						<bottom>0</bottom>
+						<left>0</left>
+						<right>0</right>
+					</borderPadding>
+					<fontFeatures array="true"/>
+				</paragraphStyle>
+			</ParagraphStyleEntityDefinition>
+			<ParagraphStyleEntityDefinition>
+				<name>Rehearsal Marks</name>
+				<entityID>paragraph.rehearsalmarks</entityID>
+				<parentEntityID>paragraph.defaulttext</parentEntityID>
+				<inheritanceMask>0x3FFFF7D</inheritanceMask>
+				<paragraphStyle>
+					<fontname>Academico</fontname>
+					<size>kStaveRelativeSize, 14</size>
+					<alignment>kLeft</alignment>
+					<indent>0</indent>
+					<extraFirstLineIndent>0</extraFirstLineIndent>
+					<gapAfterParagraph>0</gapAfterParagraph>
+					<leading>100</leading>
+					<fontStyle>Bold</fontStyle>
+					<fontStretch>100</fontStretch>
+					<letterSpacing>0</letterSpacing>
+					<wordSpacing>0</wordSpacing>
+					<underline>false</underline>
+					<overline>false</overline>
+					<borderThickness>1</borderThickness>
+					<border>false</border>
+					<alignWithSystemStart>false</alignWithSystemStart>
+					<borderStyle>kRectangle</borderStyle>
+					<placement>kAbove</placement>
+					<distanceFromStaff>3</distanceFromStaff>
+					<horizontalOffset>0</horizontalOffset>
+					<avoidCollisions>true</avoidCollisions>
+					<textCase>kDefaultCase</textCase>
+					<borderPadding>
+						<top>0</top>
+						<bottom>0</bottom>
+						<left>0</left>
+						<right>0</right>
+					</borderPadding>
+					<fontFeatures array="true"/>
+				</paragraphStyle>
+			</ParagraphStyleEntityDefinition>
+		</entities>
+	</paragraphStyles>
+	<characterStyles>
+		<entities array="true">
+			<CharacterStyleEntityDefinition>
+				<name>Metronome Mark Music Text</name>
+				<entityID>character.metronomemusictext</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<characterStyle>
+					<fontName>Rhapsody Text</fontName>
+					<fontStyle>Regular</fontStyle>
+					<fontSize>7/4</fontSize>
+					<fontFeatures array="true"/>
+				</characterStyle>
+			</CharacterStyleEntityDefinition>
+			<CharacterStyleEntityDefinition>
+				<name>Music Text</name>
+				<entityID>character.musictext</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<characterStyle>
+					<fontName>Rhapsody Text</fontName>
+					<fontStyle>Regular</fontStyle>
+					<fontFeatures array="true"/>
+				</characterStyle>
+			</CharacterStyleEntityDefinition>
+		</entities>
+	</characterStyles>
 </kScoreLibrary>
