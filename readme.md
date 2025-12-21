@@ -105,6 +105,7 @@ To re-create it from scratch:
   Staves and Systems » Indent first     ... | 0 spaces
   **Library \| Engraving Options...**
   Chord Symbols » Chord Symbol Preset       | Brandt-Roemer
+  Chord Symbols » Appearance successive ... | Show chord symbol in full
   Barline Joins » Barline at end of system… | Double barline
   Barlines » Wings on repeat barlines       | Show wings
   Rests » Multi-bar Rests » Bar count for...| No bar count

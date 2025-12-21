@@ -1185,7 +1185,7 @@
 		<centreUpperChordSymbolOnLower>bool: true</centreUpperChordSymbolOnLower>
 		<verticalGapBetweenChordSymbolRows>string: &quot;1&quot;</verticalGapBetweenChordSymbolRows>
 		<avoidCollisions>bool: true</avoidCollisions>
-		<automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>bool: true</automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>
+		<automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>bool: false</automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>
 		<automaticallyCurtailRepeatedChordSymbolsThresholdUnit>int: 0</automaticallyCurtailRepeatedChordSymbolsThresholdUnit>
 		<automaticallyCurtailRepeatedChordSymbolsThresholdValue>int: 1</automaticallyCurtailRepeatedChordSymbolsThresholdValue>
 		<explicitlyRestateRootFollowingHiddenChangeOfHarmony>bool: true</explicitlyRestateRootFollowingHiddenChangeOfHarmony>
