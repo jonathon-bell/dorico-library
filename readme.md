@@ -195,7 +195,7 @@ To re-create it from scratch:
   * Add a layout "E♭" to the _Melody_ player and transpose C4 to E♭4
   * Rename the intial flow "Head"
   * Add    the _Melody_ player to the flow _Head_
-  * Remove the _Guitar_ player freom the flow _Head_
+  * Remove the _Guitar_ player from the flow _Head_
   * Rename the Jazz Guitar player "Guitar"
   * Remove the _Full Score_ layout
 * Modify the following settings in the order listed below:
@@ -218,7 +218,7 @@ To re-create it from scratch:
 * **File | Save As Project Template...** to save the project as a template:
 
   Setting                 | Value
-  ------------------------------------
+  ------------------------|-----------
   Category                | Wolery
   Name                    | Lead Sheet
   Preserve existing flows | ❎
