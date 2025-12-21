@@ -166,7 +166,7 @@ To re-create it from scratch:
 
 * In **Engraving Mode**:
   * Select the _Jazz_ page template set
-  * Apply it to the _Guitar_ part layout.
+  * Apply it to all layouts.
 
 * **File | Save As Project Template...** to save the project as a template:
 
@@ -213,7 +213,7 @@ To re-create it from scratch:
 
 * In **Engraving Mode**:
   * Select the _Jazz_ page template set
-  * Apply it to all part layouts.
+  * Apply it to all layouts.
 
 * **File | Save As Project Template...** to save the project as a template:
 
@@ -221,6 +221,54 @@ To re-create it from scratch:
   ------------------------|-----------
   Category                | Wolery
   Name                    | Lead Sheet
+  Preserve existing flows | ❎
+  Preserve Project info   | ✅
+
+#### Chart
+
+A project template for creating charts for small jazz enembled.
+
+Created from the _Empty_ template.
+
+To re-create it from scratch:
+* Open Dorico
+* **File | New Project From Template** and choose the _Empty_ template.
+* **File | Save As...** to save as "~/Downloads/Chart.dorico"
+* In **Setup Mode**:
+  * **Add Single Player** "Melody" and select *Melody*           as its instrument
+  * **Add Single Player** "Keys"   and select *Piano*            as its instrument
+  * **Add Single Player** "Guitar" and select *Jazz Guitar*      as its instrument
+  * **Add Single Player** "Bass"   and select *4-String Bass*    as its instrument
+  * **Add Single Player** "Drums"  and select *Drum Set (Basic)* as its instrument
+  * Change instrument names to:
+    * "Melody", "M"
+    * "Keys",   "K"
+    * "Guitar", "G"
+    * "Bass",   "B"
+    * "Drums",  "D"
+  * Add a layout "C"  to the _Melody_ player
+  * Add a layout "B♭" to the _Melody_ player and transpose C4 to B♭3
+  * Add a layout "E♭" to the _Melody_ player and transpose C4 to E♭4
+  * Add player _Melody_ to the _C_, _B♭_, and _E♭_ layouts
+
+* Modify the following settings in the order listed below:
+
+  Setting                                   | Value
+  ------------------------------------------|------------------------------------
+  **File \| Project Info...**
+  Title                                     |
+  Composer                                  | Jonathon Bell
+
+* In **Engraving Mode**:
+  * Select the _Jazz_ page template set
+  * Apply it to all layouts.
+
+* **File | Save As Project Template...** to save the project as a template:
+
+  Setting                 | Value
+  ------------------------|-----------
+  Category                | Wolery
+  Name                    | Chart
   Preserve existing flows | ❎
   Preserve Project info   | ✅
 
