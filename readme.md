@@ -40,8 +40,8 @@ Clone the repo into the Dorico application support directory. For macOS:
 The `init` + `remote` sequence works around Git's reluctance to clone a repo into a directory that is not empty.
 
 Branches describe different house styles:
-* **main**: A snapshot of the default library that ships with Dorico. Useful as a reference to diff against and to see what has changed.
-* **jazz**: Extends **main** with a style based on the _Rhapsody_ SMuFL font family by [NorFonts](https://norfont.com/en/product/rhapsody-smufl-font//). This has a handwritten look that mimics the Real Book.
+* **main**: A snapshot of the default library that ships with Dorico. Useful as a reference to diff against and see what has changed.
+* **jazz**: Extends **main** with a style based on the _Rhapsody_ SMuFL font family by [NorFonts](https://norfont.com/en/product/rhapsody-smufl-font//). This has a handwritten appearance that mimics that of the Real Book.
 
 ## Contributing
 
