@@ -27,6 +27,10 @@
 !preferences.xml
 !userLibrary.xml
 
+!jumpBarAliases.ini
+!jumpBarCommands.ini
+!recentMusicText.ini
+
 !Project\ Templates
 !Project\ Templates/**
 !Project\ Templates/**/*.dorico
