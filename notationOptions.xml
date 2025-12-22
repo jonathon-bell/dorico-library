@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notationOptions>
+	<fileVersion>1.1417</fileVersion>
+	<noteGroupingOptions>
+		<splitLongNotesOnBeatsEndingInMiddleOfBeatAtHalfBar>bool: true</splitLongNotesOnBeatsEndingInMiddleOfBeatAtHalfBar>
+		<splitLongNotesOnBeatsFollowedByRestInMiddleOfBeatIntoSeparateBeats>bool: true</splitLongNotesOnBeatsFollowedByRestInMiddleOfBeatIntoSeparateBeats>
+		<splitLongMultiplesOfBeatAtStartOfBarAtHalfBar>bool: false</splitLongMultiplesOfBeatAtStartOfBarAtHalfBar>
+		<splitLongMultiplesOfBeatAfterStartOfBarAtHalfBar>bool: true</splitLongMultiplesOfBeatAfterStartOfBarAtHalfBar>
+		<splitNoteStartingInMiddleOfBeatAndCrossingHalfBarAtFirstBeatBoundaryToo>bool: true</splitNoteStartingInMiddleOfBeatAndCrossingHalfBarAtFirstBeatBoundaryToo>
+		<allowSubDivisionsOfCompoundBeatsToBeNotatedWithDotsIfBeatIsFull>bool: true</allowSubDivisionsOfCompoundBeatsToBeNotatedWithDotsIfBeatIsFull>
+		<allowSingleNoteToFillEntireIrregularBar>bool: false</allowSingleNoteToFillEntireIrregularBar>
+		<breakNotesAcrossAllBeatsInIrregularBar>bool: false</breakNotesAcrossAllBeatsInIrregularBar>
+		<groupCutTimeLikeCommonTime>bool: false</groupCutTimeLikeCommonTime>
+		<useCompoundBeatsInFiveFour>bool: true</useCompoundBeatsInFiveFour>
+	</noteGroupingOptions>
+	<restGroupingOptions>
+		<allowDottedRestsAtEndOfSimpleBeats>bool: false</allowDottedRestsAtEndOfSimpleBeats>
+		<consolidateRestsAtStartOfCompoundBeat>bool: true</consolidateRestsAtStartOfCompoundBeat>
+		<consolidateRestsInMiddleOfCompoundBeat>bool: false</consolidateRestsInMiddleOfCompoundBeat>
+		<allowHalfBarRestsEvenIfDotOptionsForbidThem>bool: true</allowHalfBarRestsEvenIfDotOptionsForbidThem>
+		<allowDottedRestsEqualToLengthOfCompoundBeat>bool: true</allowDottedRestsEqualToLengthOfCompoundBeat>
+		<splitRestsAtAllBeatBoundariesInIrregularTimeSignatures>bool: true</splitRestsAtAllBeatBoundariesInIrregularTimeSignatures>
+		<barRestAppearanceInLongBars>int: 1</barRestAppearanceInLongBars>
+	</restGroupingOptions>
+	<accidentalStateCalcOptions>
+		<durationBehaviour>int: 0</durationBehaviour>
+		<commonOptions>
+			<restateAccidentalsForEachPlayer>bool: true</restateAccidentalsForEachPlayer>
+			<useArchaicCancellationsForDoubles>bool: false</useArchaicCancellationsForDoubles>
+			<restateKeysignatureAccidentalsForTrills>bool: false</restateKeysignatureAccidentalsForTrills>
+		</commonOptions>
+		<cautionaryOptions>
+			<showCautionariesForNotesInSameBarAtDifferentOctaves>int: 1</showCautionariesForNotesInSameBarAtDifferentOctaves>
+			<showCautionariesForNotesInNextBarAtSameOctave>int: 1</showCautionariesForNotesInNextBarAtSameOctave>
+			<showCautionariesForNotesInNextBarAtDifferentOctaves>int: 1</showCautionariesForNotesInNextBarAtDifferentOctaves>
+			<showCautionaryForFirstOccurrenceOfNoteInNextBar>int: 0</showCautionaryForFirstOccurrenceOfNoteInNextBar>
+			<showCautionariesAtTiesOnSystemBreaks>int: 1</showCautionariesAtTiesOnSystemBreaks>
+			<showCautionariesForDimAndAugIntervals>int: 0</showCautionariesForDimAndAugIntervals>
+			<showCautionariesFollowingKeySigChangeInSameBar>int: 0</showCautionariesFollowingKeySigChangeInSameBar>
+			<showCautionariesFollowingKeySigChangeInNextBar>int: 0</showCautionariesFollowingKeySigChangeInNextBar>
+			<showCautionariesForPitchesPreviouslyModifiedByGraceNotes>int: 0</showCautionariesForPitchesPreviouslyModifiedByGraceNotes>
+			<showCautionariesForPitchesOnlyPreviouslySeenInCues>int: 1</showCautionariesForPitchesOnlyPreviouslySeenInCues>
+			<showCautionariesForPitchesOnlyPreviouslySeenInTrills>int: 1</showCautionariesForPitchesOnlyPreviouslySeenInTrills>
+			<suppressCautionariesAfterEnharmonicEquivalents>bool: false</suppressCautionariesAfterEnharmonicEquivalents>
+			<suppressCautionariesFollowingKeySigCancellations>bool: true</suppressCautionariesFollowingKeySigCancellations>
+			<suppressCautionariesAlreadyStatedInBar>bool: true</suppressCautionariesAlreadyStatedInBar>
+			<suppressCautionariesAtSamePitchAndOctaveInAnotherVoice>bool: true</suppressCautionariesAtSamePitchAndOctaveInAnotherVoice>
+		</cautionaryOptions>
+		<secondVienneseSchoolOptions>
+			<accidentalPersistWithinBar>bool: false</accidentalPersistWithinBar>
+			<suppressOnImmediateRepetitions>bool: false</suppressOnImmediateRepetitions>
+			<suppressOnRepetitionsWithinABeamGroup>bool: false</suppressOnRepetitionsWithinABeamGroup>
+			<showCancellationOnRepetitionOfNoteName>bool: false</showCancellationOnRepetitionOfNoteName>
+		</secondVienneseSchoolOptions>
+		<modernistOptions>
+			<accidentalPersistWithinBar>bool: false</accidentalPersistWithinBar>
+			<suppressOnImmediateRepetitions>bool: false</suppressOnImmediateRepetitions>
+			<suppressOnRepetitionsWithinABeamGroup>bool: false</suppressOnRepetitionsWithinABeamGroup>
+			<showCancellationOnRepetitionOfNoteName>bool: false</showCancellationOnRepetitionOfNoteName>
+		</modernistOptions>
+		<modernistCautionaryOptions>
+			<showCautionariesForNotesInSameBarAtSameOctave>int: 0</showCautionariesForNotesInSameBarAtSameOctave>
+			<showCautionariesForNotesInSameBarAtDifferentOctaves>int: 0</showCautionariesForNotesInSameBarAtDifferentOctaves>
+			<showCautionariesForNotesInNextBarAtSameOctave>int: 0</showCautionariesForNotesInNextBarAtSameOctave>
+			<showCautionariesForNotesInNextBarAtDifferentOctaves>int: 0</showCautionariesForNotesInNextBarAtDifferentOctaves>
+		</modernistCautionaryOptions>
+	</accidentalStateCalcOptions>
+	<beamingOptions>
+		<alwaysJoinSecondaryGroupsWithQuaverBeam>bool: false</alwaysJoinSecondaryGroupsWithQuaverBeam>
+		<allowHalfBarsToBeamTogether>bool: true</allowHalfBarsToBeamTogether>
+		<allowHalfBarsToBeamTogetherIncludingRests>bool: false</allowHalfBarsToBeamTogetherIncludingRests>
+		<halfOrQuarterBarBeamsMustFillEntireSection>bool: false</halfOrQuarterBarBeamsMustFillEntireSection>
+		<splitHalfBarBeamsAtQuarterBarsInLongTimeSignatures>bool: true</splitHalfBarBeamsAtQuarterBarsInLongTimeSignatures>
+		<allowBeamsToCrossBeatsInSimpleNonHalfBarTimeSig_CrotchetUnit>bool: true</allowBeamsToCrossBeatsInSimpleNonHalfBarTimeSig_CrotchetUnit>
+		<allowBeamsToCrossBeatsInSimpleNonHalfBarTimeSig_QuaverUnit>bool: true</allowBeamsToCrossBeatsInSimpleNonHalfBarTimeSig_QuaverUnit>
+		<allowBeamsToCrossBeatsInSimpleNonHalfBarTimeSig_SemiQuaverUnitOrShorter>bool: true</allowBeamsToCrossBeatsInSimpleNonHalfBarTimeSig_SemiQuaverUnitOrShorter>
+		<beamsAcrossBeatsInSimpleNonHalfBarTimeSigsMustFillBar>bool: false</beamsAcrossBeatsInSimpleNonHalfBarTimeSigsMustFillBar>
+		<breakQuaverBeamWhenTupletStartsOrEndsWithQuaver>bool: true</breakQuaverBeamWhenTupletStartsOrEndsWithQuaver>
+		<restBeamingOptions>
+			<restPrimaryBeamBehaviour>int: 2</restPrimaryBeamBehaviour>
+			<restSecondaryBeamBehaviour>int: 1</restSecondaryBeamBehaviour>
+			<allowPartialBeamsOnStemlessRestAtStartOrEndOfBeam>bool: false</allowPartialBeamsOnStemlessRestAtStartOrEndOfBeam>
+		</restBeamingOptions>
+		<splitSecondaryBeamGroupsAutomatically>bool: true</splitSecondaryBeamGroupsAutomatically>
+		<splitBeamsAtBeatBoundariesWhenTied>bool: true</splitBeamsAtBeatBoundariesWhenTied>
+	</beamingOptions>
+	<noteStemSideCalcOptions>
+		<useSplitStemsForDiatonicPitchDuplicates>bool: true</useSplitStemsForDiatonicPitchDuplicates>
+		<stemSideAllocationBehaviour>int: 0</stemSideAllocationBehaviour>
+	</noteStemSideCalcOptions>
+	<voiceOrderingOptions>
+		<alwaysPutStemlessDurationsToTheLeftOfStemmedDurations>bool: false</alwaysPutStemlessDurationsToTheLeftOfStemmedDurations>
+		<shouldPositionOverlappingVoicesBackToBack>bool: false</shouldPositionOverlappingVoicesBackToBack>
+		<unisonDotAgainstNonDotPositioningRule>int: 0</unisonDotAgainstNonDotPositioningRule>
+		<allowBlackNotesAndMinimUnisonsToShareNotehead>bool: false</allowBlackNotesAndMinimUnisonsToShareNotehead>
+		<allowDottedAndUndottedUnisonsToShareNotehead>bool: false</allowDottedAndUndottedUnisonsToShareNotehead>
+	</voiceOrderingOptions>
+	<restStavePositionerOptions>
+		<longRestPositioningBehaviour>int: 1</longRestPositioningBehaviour>
+		<strictContrapuntalMode>bool: false</strictContrapuntalMode>
+		<alignRestBottomsOnOneLineStaves>bool: false</alignRestBottomsOnOneLineStaves>
+		<alwaysMoveRestsAwayFromNotesSoundingLater>bool: false</alwaysMoveRestsAwayFromNotesSoundingLater>
+		<restrictImpactOfPositioningWithinTheBar>bool: false</restrictImpactOfPositioningWithinTheBar>
+		<lowerBarRestInMultipleVoicesPositioningBehaviour>int: 2</lowerBarRestInMultipleVoicesPositioningBehaviour>
+		<alignRestsWithinBarOrBeat>int: 0</alignRestsWithinBarOrBeat>
+	</restStavePositionerOptions>
+	<dotNotationOptions>
+		<allowUpToNDotsInSimpleBeat>int: 2</allowUpToNDotsInSimpleBeat>
+		<allowUpToNDotsInCompoundBeat>int: 2</allowUpToNDotsInCompoundBeat>
+	</dotNotationOptions>
+	<syncopationDetectorOptions>
+		<matchShortLongShort>bool: true</matchShortLongShort>
+		<matchShortDottedLong>bool: true</matchShortDottedLong>
+		<allowRestsForOneOfShortPair>bool: true</allowRestsForOneOfShortPair>
+		<allowPatternsToCrossHalfBar>bool: true</allowPatternsToCrossHalfBar>
+		<patternsCrossingHalfBarMustFillEntireBar>bool: true</patternsCrossingHalfBarMustFillEntireBar>
+	</syncopationDetectorOptions>
+	<partTranspositionOptions>
+		<preferEnharmonicEquivalentWithFewerAccidentals>bool: true</preferEnharmonicEquivalentWithFewerAccidentals>
+		<preferSimplerAccidentals>bool: true</preferSimplerAccidentals>
+	</partTranspositionOptions>
+	<customPlayerOrder>string: &quot;&quot;</customPlayerOrder>
+	<barlineOptions>
+		<defaultBarlineType>int: 0</defaultBarlineType>
+		<finalBarlineType>int: 0</finalBarlineType>
+		<drawSingleBarlinesBetweenStaves>bool: false</drawSingleBarlinesBetweenStaves>
+		<showSingleSystemicBarlineAtEndOfSystem>bool: false</showSingleSystemicBarlineAtEndOfSystem>
+		<showSingleSystemicBarlineAtEndOfFlow>bool: false</showSingleSystemicBarlineAtEndOfFlow>
+		<showSystemicBarlineForSingleStaffSystems>bool: false</showSystemicBarlineForSingleStaffSystems>
+		<showSystemicBarlineForSingleStaffSystemsOnFirstSystem>bool: false</showSystemicBarlineForSingleStaffSystemsOnFirstSystem>
+		<drawDoubleSystemicBarlineAtStartOfSystem>bool: false</drawDoubleSystemicBarlineAtStartOfSystem>
+		<drawDoubleSystemicBarlineAtStartOfFlow>bool: false</drawDoubleSystemicBarlineAtStartOfFlow>
+	</barlineOptions>
+	<percussionOptions>
+		<overlappingNoteBehaviour>int: 0</overlappingNoteBehaviour>
+		<drumKitVoicingType>int: 0</drumKitVoicingType>
+		<padOpposingKitVoicesWithRestsAtStartAndEnd>bool: false</padOpposingKitVoicesWithRestsAtStartAndEnd>
+	</percussionOptions>
+	<omitBarRestsFromSecondaryVoices>bool: true</omitBarRestsFromSecondaryVoices>
+	<omitBarRestsBeneathCues>bool: false</omitBarRestsBeneathCues>
+	<omitBarRestsFromSecondaryVoicesInPercussionKits>bool: false</omitBarRestsFromSecondaryVoicesInPercussionKits>
+	<rhythmSlashNotationOptions>
+		<numSpacesFromMiddleOfStaveToOffsetSlashesInOpposingVoiceDirections>int: 1</numSpacesFromMiddleOfStaveToOffsetSlashesInOpposingVoiceDirections>
+		<numSpacesBetweenSlashesInSameVoiceDirection>int: 1</numSpacesBetweenSlashesInSameVoiceDirection>
+		<numSpacesFromMiddleOfStaveToOffsetSlashesWhenOpposingNonSlashedVoicesPresent>int: 1</numSpacesFromMiddleOfStaveToOffsetSlashesWhenOpposingNonSlashedVoicesPresent>
+		<maximumDurationForAutomaticRhythmSlashes>int: 8</maximumDurationForAutomaticRhythmSlashes>
+		<behaviourInCompoundTimeSignatures>int: 0</behaviourInCompoundTimeSignatures>
+		<behaviourInIrregularTimeSignatures>int: 0</behaviourInIrregularTimeSignatures>
+		<maximumDurationAppliesToCompoundTimeSignatures>bool: true</maximumDurationAppliesToCompoundTimeSignatures>
+		<maximumDurationAppliesToIrregularTimeSignatures>bool: true</maximumDurationAppliesToIrregularTimeSignatures>
+		<beatLengthForOpenTimeSignatures>list: {int: 8}, {int: 0}</beatLengthForOpenTimeSignatures>
+	</rhythmSlashNotationOptions>
+	<condensingOptions>
+		<phraseMaxPitchCrossCount>int: 1</phraseMaxPitchCrossCount>
+		<allowAnyNumberOfPitchCrosses>bool: false</allowAnyNumberOfPitchCrosses>
+		<preventPlayingTechniqueAmalgamation>bool: false</preventPlayingTechniqueAmalgamation>
+		<preventStemAmalgamation>bool: false</preventStemAmalgamation>
+		<silentPlayerPolicy>int: 0</silentPlayerPolicy>
+		<allowTrueUnisons>bool: true</allowTrueUnisons>
+		<allowMidSharedStemUnisons>bool: true</allowMidSharedStemUnisons>
+		<slurAmalgamationPolicy>int: 0</slurAmalgamationPolicy>
+		<hideRestsForSilentPlayers>bool: false</hideRestsForSilentPlayers>
+		<hideRestsForSilentPlayersOnlyForRangesThatAdjoinABarline>bool: false</hideRestsForSilentPlayersOnlyForRangesThatAdjoinABarline>
+		<minimumLengthToHideRestsForSilentPlayers>string: &quot;2&quot;</minimumLengthToHideRestsForSilentPlayers>
+		<mirrorAccidentalPropertiesFromNormalStaves>bool: false</mirrorAccidentalPropertiesFromNormalStaves>
+		<requireTrillIntervalCompatibility>int: 0</requireTrillIntervalCompatibility>
+		<preventHorizontalLineAmalgamation>bool: false</preventHorizontalLineAmalgamation>
+	</condensingOptions>
+	<frettedInstrumentStringAssignmentOptions>
+		<openStringAssignmentPreference>int: 0</openStringAssignmentPreference>
+		<ignoreReservedStringIndicesIfUnassignable>bool: true</ignoreReservedStringIndicesIfUnassignable>
+	</frettedInstrumentStringAssignmentOptions>
+	<clefNotationOptions>
+		<respectOctaveTransposition>bool: false</respectOctaveTransposition>
+		<showClefInPreambleAfterFirstSystem>bool: true</showClefInPreambleAfterFirstSystem>
+	</clefNotationOptions>
+	<keySignatureNotationOptions>
+		<showKeySignatureInPreambleAfterFirstSystem>bool: true</showKeySignatureInPreambleAfterFirstSystem>
+		<defaultCautionaryKeySignatureVisibilityAtEndOfSystem>int: 1</defaultCautionaryKeySignatureVisibilityAtEndOfSystem>
+	</keySignatureNotationOptions>
+	<timeSignatureNotationOptions>
+		<defaultCautionaryTimeSignatureVisibilityAtEndOfSystem>int: 1</defaultCautionaryTimeSignatureVisibilityAtEndOfSystem>
+	</timeSignatureNotationOptions>
+</notationOptions>

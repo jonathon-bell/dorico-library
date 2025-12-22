@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playbackOptions>
+	<fileVersion>1.1417</fileVersion>
+	<dynamicsOptions>
+		<dynamicHumanisePercent>int: 5</dynamicHumanisePercent>
+		<primaryBeatStressDelta>double: 0.25</primaryBeatStressDelta>
+		<beatStressDelta>double: 0.1</beatStressDelta>
+		<accentDynamicDelta>double: 0.5</accentDynamicDelta>
+		<marcatoDynamicDelta>double: 0.8</marcatoDynamicDelta>
+		<applyAccentOnMeasuredUnpitchedPercussionTremolo>bool: true</applyAccentOnMeasuredUnpitchedPercussionTremolo>
+		<tenutoDynamicDelta>double: 0</tenutoDynamicDelta>
+		<sfzDynamicDelta>double: 1.5</sfzDynamicDelta>
+		<ghostNoteDynamicDelta>double: 2.5</ghostNoteDynamicDelta>
+		<dynamicCurveParams>string: &quot;0.500000,2.500000,2.500000&quot;</dynamicCurveParams>
+		<minProfileLevelForPlayback>int: -6</minProfileLevelForPlayback>
+		<maxProfileLevelForPlayback>int: 6</maxProfileLevelForPlayback>
+		<unpitchedPercussionDynamicHumanisePercent>int: 20</unpitchedPercussionDynamicHumanisePercent>
+		<unpitchedPercussionPrimaryBeatStressDelta>double: 0.3</unpitchedPercussionPrimaryBeatStressDelta>
+		<unpitchedPercussionBeatStressDelta>double: 0.2</unpitchedPercussionBeatStressDelta>
+		<resetLevelForShortConsecutiveHairpinsInSameDirection>bool: true</resetLevelForShortConsecutiveHairpinsInSameDirection>
+	</dynamicsOptions>
+	<timingOptions>
+		<timingHumanisePercent>int: 30</timingHumanisePercent>
+		<timingHumaniseEndOffsetsPercent>int: 30</timingHumaniseEndOffsetsPercent>
+		<noteDurationPercent>int: 95</noteDurationPercent>
+		<staccatoDurationPercent>int: 50</staccatoDurationPercent>
+		<staccatissimoDurationPercent>int: 25</staccatissimoDurationPercent>
+		<tenutoDurationPercent>int: 98</tenutoDurationPercent>
+		<legatoDurationPercent>int: 105</legatoDurationPercent>
+		<marcatoDurationPercent>int: 95</marcatoDurationPercent>
+		<numTicksBeforeForSwitches>int: 10</numTicksBeforeForSwitches>
+		<defaultRhythmicFeel>string: &quot;rhythmicfeel.straight&quot;</defaultRhythmicFeel>
+		<alwaysTruncateAbuttingNotesOfSamePitch>bool: true</alwaysTruncateAbuttingNotesOfSamePitch>
+		<useMaximumDurationForStaccatoPlayingTechnique>bool: true</useMaximumDurationForStaccatoPlayingTechnique>
+		<maximumDurationForStaccatoPlayingTechnique>int: 8</maximumDurationForStaccatoPlayingTechnique>
+		<additionallyTruncateAbuttingNotesOfSamePitchOnKeyboardInstrument>bool: true</additionallyTruncateAbuttingNotesOfSamePitchOnKeyboardInstrument>
+		<minimumGapInMillisecondsBetweenRepeatedNotesOfTheSamePitchOnKeyboardInstruments>int: 95</minimumGapInMillisecondsBetweenRepeatedNotesOfTheSamePitchOnKeyboardInstruments>
+		<maximumGapInMillisecondsBetweenRepeatedNotesOfTheSamePitchOnKeyboardInstruments>int: 150</maximumGapInMillisecondsBetweenRepeatedNotesOfTheSamePitchOnKeyboardInstruments>
+		<truncationBehaviourOfChordsIfAnyNoteOfSamePitchRepeatedOnKeyboardInstrument>int: 1</truncationBehaviourOfChordsIfAnyNoteOfSamePitchRepeatedOnKeyboardInstrument>
+	</timingOptions>
+	<graceNotePlaybackOptions>
+		<noteLengthAt120BPM>string: &quot;1/6&quot;</noteLengthAt120BPM>
+		<thresholdForShortAppoggiatura>int: 6</thresholdForShortAppoggiatura>
+		<playAppoggiaturas>bool: true</playAppoggiaturas>
+	</graceNotePlaybackOptions>
+	<tremoloPlaybackOptions>
+		<unmeasuredStrokesThreshold>int: 3</unmeasuredStrokesThreshold>
+		<unmeasuredNoteLengthAt120BPM>string: &quot;1/5&quot;</unmeasuredNoteLengthAt120BPM>
+		<considerTempoChanges>bool: true</considerTempoChanges>
+	</tremoloPlaybackOptions>
+	<arpeggioPlaybackOptions>
+		<arpeggioOffsetAt120BPM>string: &quot;1/10&quot;</arpeggioOffsetAt120BPM>
+		<slurArpeggioOffsetAt120BPM>string: &quot;1/12&quot;</slurArpeggioOffsetAt120BPM>
+		<playbackPosition>int: 0</playbackPosition>
+		<maximumOffset>string: &quot;3/4&quot;</maximumOffset>
+		<minimumOffset>string: &quot;1/2&quot;</minimumOffset>
+	</arpeggioPlaybackOptions>
+	<pedalLinePlaybackOptions>
+		<depressionLengthAt120BPM>string: &quot;1/4&quot;</depressionLengthAt120BPM>
+		<retakeLengthAt120BPM>string: &quot;1/2&quot;</retakeLengthAt120BPM>
+		<releaseLengthAt120BPM>string: &quot;1/2&quot;</releaseLengthAt120BPM>
+		<sustainDepressedAfterNote>bool: true</sustainDepressedAfterNote>
+	</pedalLinePlaybackOptions>
+	<chordPlaybackOptions>
+		<playChords>bool: false</playChords>
+		<defaultInstrumentForChordPlayback>string: &quot;instrument.keyboard.piano&quot;</defaultInstrumentForChordPlayback>
+	</chordPlaybackOptions>
+	<repeatsPlaybackOptions>
+		<playRepeats>bool: true</playRepeats>
+		<playRepeatsAfterDS>bool: false</playRepeatsAfterDS>
+	</repeatsPlaybackOptions>
+	<timeDisplayPlaybackOptions>
+		<projectFrameRate>int: 3</projectFrameRate>
+		<showTimecode>bool: false</showTimecode>
+	</timeDisplayPlaybackOptions>
+	<playModeTrackVisibilityPlaybackOptions>
+		<showTimeTrack>bool: true</showTimeTrack>
+		<showChordTrack>bool: true</showChordTrack>
+		<showVideoTrack>bool: false</showVideoTrack>
+		<showMarkerTrack>bool: false</showMarkerTrack>
+	</playModeTrackVisibilityPlaybackOptions>
+	<clickAndCountInPlaybackOptions>
+		<enableClick>bool: false</enableClick>
+		<numBarsCountIn>int: 1</numBarsCountIn>
+		<stressOptions>
+			<useBeatSubdivisionsForRegularTimeSigs>bool: false</useBeatSubdivisionsForRegularTimeSigs>
+			<useBeatSubdivisionsForCompoundTimeSigs>bool: true</useBeatSubdivisionsForCompoundTimeSigs>
+		</stressOptions>
+		<renderOptions>
+			<primaryBeatPitch>int: 83</primaryBeatPitch>
+			<subsequentBeatPitch>int: 79</subsequentBeatPitch>
+			<beatSubdivisionPitch>int: 71</beatSubdivisionPitch>
+			<primaryBeatVelocity>int: 64</primaryBeatVelocity>
+			<subsequentBeatVelocity>int: 56</subsequentBeatVelocity>
+			<beatSubdivisionVelocity>int: 48</beatSubdivisionVelocity>
+			<doricoBeepSound>int: 1</doricoBeepSound>
+		</renderOptions>
+		<enableCycle>bool: false</enableCycle>
+	</clickAndCountInPlaybackOptions>
+	<trillPlaybackOptions>
+		<trillPlaybackMode>int: 1</trillPlaybackMode>
+		<playbackSpeedSlow>int: 8</playbackSpeedSlow>
+		<playbackSpeedNormal>int: 12</playbackSpeedNormal>
+		<playbackSpeedFast>int: 16</playbackSpeedFast>
+		<startPlaybackOnUpperNote>bool: false</startPlaybackOnUpperNote>
+		<playAcceleratingTrills>bool: false</playAcceleratingTrills>
+		<considerTempoChanges>bool: true</considerTempoChanges>
+	</trillPlaybackOptions>
+	<noteExpressionOptions>
+		<enableNoteExpression>bool: true</enableNoteExpression>
+		<overallImpactPercentage>int: 100</overallImpactPercentage>
+		<maximumDynamicDeviation>double: 1.5</maximumDynamicDeviation>
+		<percentageToApplyToHighLoudAlgorithmOutputForNonMelodyLines>int: 70</percentageToApplyToHighLoudAlgorithmOutputForNonMelodyLines>
+		<polyphonicInstrumentVoiceBalancingOptions>
+			<automaticallyBalanceVoicesOfPolyphonicInstruments>bool: true</automaticallyBalanceVoicesOfPolyphonicInstruments>
+			<offsetToApplyToOuterNotesOfMelody>double: 0.2</offsetToApplyToOuterNotesOfMelody>
+			<offsetToApplyToAllOtherNotesOfMelody>double: -0.3</offsetToApplyToAllOtherNotesOfMelody>
+			<offsetToApplyToOuterNotesOfBass>double: -0.5</offsetToApplyToOuterNotesOfBass>
+			<offsetToApplyToAllOtherNotesOfBass>double: -0.7</offsetToApplyToAllOtherNotesOfBass>
+			<offsetToApplyToSingleNotesInAllOtherVoices>double: -0.6</offsetToApplyToSingleNotesInAllOtherVoices>
+			<offsetToApplyToChordsInAllOtherVoices>double: -0.85</offsetToApplyToChordsInAllOtherVoices>
+			<effectPercentForForVoicesWithSimilarRhythms>int: 30</effectPercentForForVoicesWithSimilarRhythms>
+			<effectPercentForForVoicesWithSimilarRhythmsWhenChordsPresentInNonMelodyVoice>int: 50</effectPercentForForVoicesWithSimilarRhythmsWhenChordsPresentInNonMelodyVoice>
+			<effectPercentForOtherVoicesWhenMelodyOnTopForteOrQuieter>int: 100</effectPercentForOtherVoicesWhenMelodyOnTopForteOrQuieter>
+			<effectPercentForOtherVoicesWhenMelodyOnTopFortissimoOrLouder>int: 160</effectPercentForOtherVoicesWhenMelodyOnTopFortissimoOrLouder>
+			<mirrorEffectPercentForLoudDynamicsAtSoftDynamics>bool: false</mirrorEffectPercentForLoudDynamicsAtSoftDynamics>
+			<assumedDynamicValueOfForte>double: 0.8</assumedDynamicValueOfForte>
+			<assumedDynamicValueOfFortissimo>double: 2</assumedDynamicValueOfFortissimo>
+			<assumedDynamicValueOfPiano>double: -0.8</assumedDynamicValueOfPiano>
+			<assumedDynamicValueOfPianissimo>double: -2</assumedDynamicValueOfPianissimo>
+			<counteractAgainstDynamicCurvePercentage>int: 40</counteractAgainstDynamicCurvePercentage>
+			<counteractionAgainstDynamicCurveLoudThreshold>double: 1</counteractionAgainstDynamicCurveLoudThreshold>
+			<useCompression>bool: false</useCompression>
+			<compressionDeltaStartThreshold>double: 1.6</compressionDeltaStartThreshold>
+			<compressionDeltaEndThreshold>double: 2.2</compressionDeltaEndThreshold>
+			<compressionRatioDivisorForEndThreshold>double: 4</compressionRatioDivisorForEndThreshold>
+			<alwaysTreatBottomLineAsBassWhenOnlyTwoVoicesActive>bool: false</alwaysTreatBottomLineAsBassWhenOnlyTwoVoicesActive>
+			<overallPercentageToApply>int: 100</overallPercentageToApply>
+			<likelihoodOfMelodyBeingAtTop>int: 5</likelihoodOfMelodyBeingAtTop>
+			<useRulesForContrapuntalMusic>bool: false</useRulesForContrapuntalMusic>
+			<strengthOfContrapuntalAlgorithm>int: 25</strengthOfContrapuntalAlgorithm>
+			<overallPercentageToApplyWhenUsingContrapuntalRules>int: 40</overallPercentageToApplyWhenUsingContrapuntalRules>
+			<scalingPercentageForBassOffsetsWhenUsingContrapuntalRules>int: 25</scalingPercentageForBassOffsetsWhenUsingContrapuntalRules>
+			<overallPercentageToApplyToPiano>int: 100</overallPercentageToApplyToPiano>
+			<overallPercentageToApplyToCelesta>int: 100</overallPercentageToApplyToCelesta>
+			<overallPercentageToApplyToFrettedInstruments>int: 100</overallPercentageToApplyToFrettedInstruments>
+			<overallPercentageToApplyToHarp>int: 100</overallPercentageToApplyToHarp>
+			<overallPercentageToApplyToPitchedPercussion>int: 100</overallPercentageToApplyToPitchedPercussion>
+		</polyphonicInstrumentVoiceBalancingOptions>
+		<contrapuntalThemeTimingThresholdsOptions>
+			<minimumTimeBetweenNeighbouringNoteOnsetsWhenLookingForThematicStatements_ms>int: 3000</minimumTimeBetweenNeighbouringNoteOnsetsWhenLookingForThematicStatements_ms>
+			<minimumTimeInFromPreviousThematicStatementWhenCandidateHasNotMatchedSpecificTheme_ms>int: 4000</minimumTimeInFromPreviousThematicStatementWhenCandidateHasNotMatchedSpecificTheme_ms>
+			<minimumDurationForThematicStatementThatHasNotMatchedSpecificTheme_ms>int: 4000</minimumDurationForThematicStatementThatHasNotMatchedSpecificTheme_ms>
+			<minimumDurationFromPreviousThematicStatementWhenCandidateHasMatchedSpecificThemeVerbatim_ms>int: 0</minimumDurationFromPreviousThematicStatementWhenCandidateHasMatchedSpecificThemeVerbatim_ms>
+			<minimumDurationFromPreviousThematicStatementWhenCandidateHasMatchedSpecificThemePartially_ms>int: 1000</minimumDurationFromPreviousThematicStatementWhenCandidateHasMatchedSpecificThemePartially_ms>
+			<durationThresholdAboveRestWillBreakMelody_ms>int: 400</durationThresholdAboveRestWillBreakMelody_ms>
+			<minimumDurationInMillisecondsForThematicStatementNotPrecededByRest>int: 3000</minimumDurationInMillisecondsForThematicStatementNotPrecededByRest>
+			<minimumDurationForKnownThematicStatementUnlessInterruptedByOther_ms>int: 2500</minimumDurationForKnownThematicStatementUnlessInterruptedByOther_ms>
+			<minimumDurationRatioForThemeEntriesOffsetIntoStartOfWindow>double: 0.75</minimumDurationRatioForThemeEntriesOffsetIntoStartOfWindow>
+			<rejectThemesWithFewerThanNStatements>int: 3</rejectThemesWithFewerThanNStatements>
+			<ignoreRepetitionsOfPitchWhenConsideringOtherwiseVerbatimThematicStatements>bool: true</ignoreRepetitionsOfPitchWhenConsideringOtherwiseVerbatimThematicStatements>
+		</contrapuntalThemeTimingThresholdsOptions>
+		<exponentialDecaySettings>
+			<maximumForPositiveInput>double: 5</maximumForPositiveInput>
+			<constantRatioForPositiveInput>double: 0.12</constantRatioForPositiveInput>
+			<maximumForNegativeInput>double: 0.8</maximumForNegativeInput>
+			<constantRatioForNegativeInput>double: 0.75</constantRatioForNegativeInput>
+		</exponentialDecaySettings>
+		<overallRatioToApplyToOutput>double: 0.25</overallRatioToApplyToOutput>
+	</noteExpressionOptions>
+	<pausePlaybackOptions>
+		<playPauses>bool: true</playPauses>
+		<veryShortElongationPercent>int: 15</veryShortElongationPercent>
+		<veryShortSilencePercent>int: 15</veryShortSilencePercent>
+		<shortElongationPercent>int: 25</shortElongationPercent>
+		<shortSilencePercent>int: 25</shortSilencePercent>
+		<normalElongationPercent>int: 50</normalElongationPercent>
+		<normalSilencePercent>int: 50</normalSilencePercent>
+		<longElongationPercent>int: 100</longElongationPercent>
+		<longSilencePercent>int: 100</longSilencePercent>
+		<veryLongElongationPercent>int: 200</veryLongElongationPercent>
+		<veryLongSilencePercent>int: 200</veryLongSilencePercent>
+		<shortHenzeElongationPercent>int: 25</shortHenzeElongationPercent>
+		<shortHenzeSilencePercent>int: 25</shortHenzeSilencePercent>
+		<longHenzeElongationPercent>int: 100</longHenzeElongationPercent>
+		<longHenzeSilencePercent>int: 100</longHenzeSilencePercent>
+		<caesuraSilencePercent>int: 50</caesuraSilencePercent>
+		<breathMarkShorteningPercent>int: 50</breathMarkShorteningPercent>
+	</pausePlaybackOptions>
+	<glissandoPlaybackOptions>
+		<delayedStart>bool: true</delayedStart>
+	</glissandoPlaybackOptions>
+	<controllerDiscretisationInterval>string: &quot;1/16&quot;</controllerDiscretisationInterval>
+	<pitchBendDiscretisationInterval>string: &quot;1/32&quot;</pitchBendDiscretisationInterval>
+	<gapBetweenFlowsSeconds>double: 5</gapBetweenFlowsSeconds>
+	<preRollBeforeFlowSeconds>double: 0</preRollBeforeFlowSeconds>
+	<playBackSlashedVoices>bool: false</playBackSlashedVoices>
+	<pitchOfA4InHertz>double: 440</pitchOfA4InHertz>
+</playbackOptions>
