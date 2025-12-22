@@ -6,7 +6,7 @@
 		<primaryBeatStressDelta>double: 0.25</primaryBeatStressDelta>
 		<beatStressDelta>double: 0.1</beatStressDelta>
 		<accentDynamicDelta>double: 0.5</accentDynamicDelta>
-		<marcatoDynamicDelta>double: 0.8</marcatoDynamicDelta>
+		<marcatoDynamicDelta>double: 1</marcatoDynamicDelta>
 		<applyAccentOnMeasuredUnpitchedPercussionTremolo>bool: true</applyAccentOnMeasuredUnpitchedPercussionTremolo>
 		<tenutoDynamicDelta>double: 0</tenutoDynamicDelta>
 		<sfzDynamicDelta>double: 1.5</sfzDynamicDelta>
@@ -93,7 +93,7 @@
 			<primaryBeatVelocity>int: 64</primaryBeatVelocity>
 			<subsequentBeatVelocity>int: 56</subsequentBeatVelocity>
 			<beatSubdivisionVelocity>int: 48</beatSubdivisionVelocity>
-			<doricoBeepSound>int: 1</doricoBeepSound>
+			<doricoBeepSound>int: 2</doricoBeepSound>
 		</renderOptions>
 		<enableCycle>bool: false</enableCycle>
 	</clickAndCountInPlaybackOptions>

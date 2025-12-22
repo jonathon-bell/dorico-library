@@ -42,7 +42,7 @@
 		<continueHairpinsThroughChangesOfDynamic>bool: false</continueHairpinsThroughChangesOfDynamic>
 		<combinedDynamicsAlwaysUseSeparator>bool: false</combinedDynamicsAlwaysUseSeparator>
 		<combinedDynamicsSeparator>int: 0</combinedDynamicsSeparator>
-		<hairpinPenWidth>string: &quot;1/6&quot;</hairpinPenWidth>
+		<hairpinPenWidth>string: &quot;7/25&quot;</hairpinPenWidth>
 		<maximumHairpinOpenEndAperture>string: &quot;3/2&quot;</maximumHairpinOpenEndAperture>
 		<minimumHairpinOpenEndAperture>string: &quot;1&quot;</minimumHairpinOpenEndAperture>
 		<openEndApertureForHairpinsOverSystemBreaks>string: &quot;1&quot;</openEndApertureForHairpinsOverSystemBreaks>
@@ -96,10 +96,10 @@
 		<leftAlignImmediateDynamicsWithNoIntensityMarking>bool: true</leftAlignImmediateDynamicsWithNoIntensityMarking>
 	</dynamicsOptions>
 	<bracketingOptions>
-		<bracketWidth>string: &quot;1/2&quot;</bracketWidth>
+		<bracketWidth>string: &quot;3/4&quot;</bracketWidth>
 		<bracketEndType>int: 0</bracketEndType>
 		<subBracketWidth>string: &quot;1&quot;</subBracketWidth>
-		<subBracketLineThickness>string: &quot;1/8&quot;</subBracketLineThickness>
+		<subBracketLineThickness>string: &quot;11/50&quot;</subBracketLineThickness>
 		<bracketDistanceFromSystemicBarline>string: &quot;1/2&quot;</bracketDistanceFromSystemicBarline>
 		<bracedSubBracketDistanceFromBracket>string: &quot;3/8&quot;</bracedSubBracketDistanceFromBracket>
 		<subBracketMeetsSystemicBarline>bool: true</subBracketMeetsSystemicBarline>
@@ -119,7 +119,7 @@
 		<ledgerLineProtrusionWhenRightOfAccidental>string: &quot;1/6&quot;</ledgerLineProtrusionWhenRightOfAccidental>
 		<ledgerLineInnerProtrusionInRunOfShortBeamedNotes>string: &quot;1/5&quot;</ledgerLineInnerProtrusionInRunOfShortBeamedNotes>
 		<ledgerLineProtrusionForRests>string: &quot;1/4&quot;</ledgerLineProtrusionForRests>
-		<ledgerLineThickness>string: &quot;1/6&quot;</ledgerLineThickness>
+		<ledgerLineThickness>string: &quot;27/100&quot;</ledgerLineThickness>
 		<shortenLedgerLinesForAccidentals>bool: true</shortenLedgerLinesForAccidentals>
 		<shortenLedgerLinesInRunsOfShortBeamedNotes>bool: true</shortenLedgerLinesInRunsOfShortBeamedNotes>
 	</ledgerLineOptions>
@@ -158,8 +158,8 @@
 		<minimumGapBetweenTiesSharingStavePosition>string: &quot;1/2&quot;</minimumGapBetweenTiesSharingStavePosition>
 		<maxNumberOfSpacesBeyondNoteheadEndOfChordForTies>int: 1</maxNumberOfSpacesBeyondNoteheadEndOfChordForTies>
 		<maxNumberOfSpacesBeyondStemEndOfChordForTies>int: 2</maxNumberOfSpacesBeyondStemEndOfChordForTies>
-		<tieThickness>string: &quot;1/4&quot;</tieThickness>
-		<tieEndThickness>string: &quot;1/8&quot;</tieEndThickness>
+		<tieThickness>string: &quot;7/25&quot;</tieThickness>
+		<tieEndThickness>string: &quot;9/50&quot;</tieEndThickness>
 		<maxTieShoulderOffsetForShortTies>string: &quot;3/5&quot;</maxTieShoulderOffsetForShortTies>
 		<minTieShoulderOffsetForLongTies>string: &quot;1/10&quot;</minTieShoulderOffsetForLongTies>
 		<minTieHeightForShortTies>string: &quot;1/2&quot;</minTieHeightForShortTies>
@@ -230,7 +230,7 @@
 	</timeSignatureOptions>
 	<ottavaLineOptions>
 		<ottavaLineAppearance>int: 0</ottavaLineAppearance>
-		<ottavaLineExtensionLineThickness>string: &quot;1/12&quot;</ottavaLineExtensionLineThickness>
+		<ottavaLineExtensionLineThickness>string: &quot;3/10&quot;</ottavaLineExtensionLineThickness>
 		<optimalDashLengthForOttavaLines>string: &quot;3/4&quot;</optimalDashLengthForOttavaLines>
 		<optimalDashGapLengthForOttavaLines>string: &quot;3/4&quot;</optimalDashGapLengthForOttavaLines>
 		<optimalDotDiameterForOttavaLines>string: &quot;1/6&quot;</optimalDotDiameterForOttavaLines>
@@ -259,7 +259,7 @@
 		<considerWidthOfRhythmDotsForRHSAlignment>bool: true</considerWidthOfRhythmDotsForRHSAlignment>
 	</ottavaLineOptions>
 	<tupletOptions>
-		<tupletBracketLineWidth>string: &quot;1/8&quot;</tupletBracketLineWidth>
+		<tupletBracketLineWidth>string: &quot;17/100&quot;</tupletBracketLineWidth>
 		<tupletHookLength>string: &quot;3/4&quot;</tupletHookLength>
 		<tupletEndPosition>int: 2</tupletEndPosition>
 		<tupletGapAfterEndPosition>string: &quot;1/2&quot;</tupletGapAfterEndPosition>
@@ -281,7 +281,7 @@
 		<tupletsAlwaysAbove>int: 1</tupletsAlwaysAbove>
 	</tupletOptions>
 	<staveOptions>
-		<staveLineThickness>string: &quot;1/8&quot;</staveLineThickness>
+		<staveLineThickness>string: &quot;9/100&quot;</staveLineThickness>
 		<ossiaScaleFactor>string: &quot;2/3&quot;</ossiaScaleFactor>
 		<midBarOssiaStartStaveLinePadding>string: &quot;1&quot;</midBarOssiaStartStaveLinePadding>
 		<midBarOssiaEndStaveLinePadding>string: &quot;0&quot;</midBarOssiaEndStaveLinePadding>
@@ -295,7 +295,7 @@
 		<graceNoteDefaultSlashInsetFromStemTip>string: &quot;1&quot;</graceNoteDefaultSlashInsetFromStemTip>
 		<graceNoteDefaultSlashOffsetToRight>string: &quot;1/2&quot;</graceNoteDefaultSlashOffsetToRight>
 		<graceNoteSlashMinimumProtrusionFromBeam>string: &quot;1&quot;</graceNoteSlashMinimumProtrusionFromBeam>
-		<defaultNoteheadSet>string: &quot;noteheadset.large&quot;</defaultNoteheadSet>
+		<defaultNoteheadSet>string: &quot;noteheadset.default&quot;</defaultNoteheadSet>
 		<defaultRestSet>string: &quot;restset.default&quot;</defaultRestSet>
 		<offsetNoteShapesForMinorKeysWhenUsingScaleDegreeNoteheadType>bool: true</offsetNoteShapesForMinorKeysWhenUsingScaleDegreeNoteheadType>
 		<preferredAppearanceForBreveNotehead>int: 1</preferredAppearanceForBreveNotehead>
@@ -443,7 +443,7 @@
 		<minimumDistanceBetweenOutsideOfTremoloAndInsideOfInnerBeam>string: &quot;1/4&quot;</minimumDistanceBetweenOutsideOfTremoloAndInsideOfInnerBeam>
 		<minimumDistanceBetweenOutsideOfTremoloAndTipOfBareStem>string: &quot;1/4&quot;</minimumDistanceBetweenOutsideOfTremoloAndTipOfBareStem>
 		<minimumDistanceBetweenInsideOfTremoloAndOutermostNotehead>string: &quot;17/20&quot;</minimumDistanceBetweenInsideOfTremoloAndOutermostNotehead>
-		<stemThickness>string: &quot;3/25&quot;</stemThickness>
+		<stemThickness>string: &quot;1/5&quot;</stemThickness>
 		<allowContextualStemDirections>bool: true</allowContextualStemDirections>
 		<shortStemLengthForQuaver>string: &quot;3&quot;</shortStemLengthForQuaver>
 		<attemptToShortenBeamedStemsSlightly>bool: false</attemptToShortenBeamedStemsSlightly>
@@ -486,8 +486,8 @@
 		<longSlurShoulder>string: &quot;1/3&quot;</longSlurShoulder>
 		<shortSlurThresholdForShoulder>string: &quot;7&quot;</shortSlurThresholdForShoulder>
 		<longSlurThresholdForShoulder>string: &quot;32&quot;</longSlurThresholdForShoulder>
-		<slurEndThickness>string: &quot;1/12&quot;</slurEndThickness>
-		<slurMiddleThickness>string: &quot;1/5&quot;</slurMiddleThickness>
+		<slurEndThickness>string: &quot;9/50&quot;</slurEndThickness>
+		<slurMiddleThickness>string: &quot;7/25&quot;</slurMiddleThickness>
 		<dashedSlurDashLength>string: &quot;1/2&quot;</dashedSlurDashLength>
 		<dashedSlurGapLength>string: &quot;1/3&quot;</dashedSlurGapLength>
 		<dottedSlurGapLength>string: &quot;1/3&quot;</dottedSlurGapLength>
@@ -751,7 +751,7 @@
 		<minimumPaddingAroundCircularMarks>string: &quot;1/4&quot;</minimumPaddingAroundCircularMarks>
 		<minimumDistanceFromStave>string: &quot;3&quot;</minimumDistanceFromStave>
 		<rehearsalMarkBaseAlignment>int: 0</rehearsalMarkBaseAlignment>
-		<rehearsalMarkEnclosurePenWidth>string: &quot;1/8&quot;</rehearsalMarkEnclosurePenWidth>
+		<rehearsalMarkEnclosurePenWidth>string: &quot;9/25&quot;</rehearsalMarkEnclosurePenWidth>
 		<sequenceTypeForAlphabetics>int: 0</sequenceTypeForAlphabetics>
 		<noteRelativeHorizontalAlignment>int: 1</noteRelativeHorizontalAlignment>
 		<minimumGapAboveOrBelowOtherObjects>string: &quot;3/4&quot;</minimumGapAboveOrBelowOtherObjects>
@@ -775,7 +775,7 @@
 		<idealDistanceFromStave>string: &quot;3/2&quot;</idealDistanceFromStave>
 		<distanceBetweenLyricLines>string: &quot;1&quot;</distanceBetweenLyricLines>
 		<extenderLineMinimumWidth>string: &quot;1&quot;</extenderLineMinimumWidth>
-		<extenderLineThickness>string: &quot;1/16&quot;</extenderLineThickness>
+		<extenderLineThickness>string: &quot;1/5&quot;</extenderLineThickness>
 		<extenderLineGapAtStart>string: &quot;1/8&quot;</extenderLineGapAtStart>
 		<extenderLineGapAtEndOfSystem>string: &quot;1&quot;</extenderLineGapAtEndOfSystem>
 		<minimumSpaceForHyphen>string: &quot;1&quot;</minimumSpaceForHyphen>
@@ -807,25 +807,25 @@
 		<extraPunctuation>string: &quot;&quot;</extraPunctuation>
 	</lyricOptions>
 	<barlineOptions>
-		<thinBarlineThickness>string: &quot;1/5&quot;</thinBarlineThickness>
-		<thickBarlineThickness>string: &quot;1/2&quot;</thickBarlineThickness>
-		<doubleBarlineGap>string: &quot;1/2&quot;</doubleBarlineGap>
+		<thinBarlineThickness>string: &quot;1/4&quot;</thinBarlineThickness>
+		<thickBarlineThickness>string: &quot;3/4&quot;</thickBarlineThickness>
+		<doubleBarlineGap>string: &quot;2/5&quot;</doubleBarlineGap>
 		<finalOrRepeatBarlineGap>string: &quot;1/2&quot;</finalOrRepeatBarlineGap>
 		<thickThickRepeatBarlineGap>string: &quot;2/5&quot;</thickThickRepeatBarlineGap>
-		<gapBetweenOutermostLineAndRepeatDots>string: &quot;1/2&quot;</gapBetweenOutermostLineAndRepeatDots>
+		<gapBetweenOutermostLineAndRepeatDots>string: &quot;4/25&quot;</gapBetweenOutermostLineAndRepeatDots>
 		<repeatBarlineDotBehaviour>int: 0</repeatBarlineDotBehaviour>
 		<coincidentStartAndEndRepeatBarlineBehaviour>int: 0</coincidentStartAndEndRepeatBarlineBehaviour>
-		<dashedBarlineDashLength>string: &quot;2/3&quot;</dashedBarlineDashLength>
-		<dashedBarlineGapLength>string: &quot;2/3&quot;</dashedBarlineGapLength>
+		<dashedBarlineDashLength>string: &quot;1/2&quot;</dashedBarlineDashLength>
+		<dashedBarlineGapLength>string: &quot;1/4&quot;</dashedBarlineGapLength>
 		<showDoubleBarlinesAtChangesOfKeySignature>bool: true</showDoubleBarlinesAtChangesOfKeySignature>
 		<breakBarlinesOnVocalStaves>bool: true</breakBarlinesOnVocalStaves>
 		<joinCoincidentBarlinesOfStavesInDifferentTimeSignatures>bool: false</joinCoincidentBarlinesOfStavesInDifferentTimeSignatures>
-		<startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>bool: false</startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>
+		<startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>bool: true</startRepeatAtStartOfNewSystemShowsDoubleBarlineOnPreviousSystem>
 		<showDoubleBarlineBeforeMidSystemGap>bool: false</showDoubleBarlineBeforeMidSystemGap>
 		<barlineLengthForSingleLineInstruments>string: &quot;1&quot;</barlineLengthForSingleLineInstruments>
 		<maxNumberOfStaveLinesForSingleLineBarlineLength>int: 2</maxNumberOfStaveLinesForSingleLineBarlineLength>
 		<barlinesOnPercussionGridsAlwaysProtrude>bool: true</barlinesOnPercussionGridsAlwaysProtrude>
-		<showWingsOnRepeatBarlines>bool: false</showWingsOnRepeatBarlines>
+		<showWingsOnRepeatBarlines>bool: true</showWingsOnRepeatBarlines>
 		<additionalThickBarlineProtrusionForWings>string: &quot;1/4&quot;</additionalThickBarlineProtrusionForWings>
 		<ossiaBarlineBehaviour>int: 0</ossiaBarlineBehaviour>
 		<ossiaBarlineJoinType>int: 1</ossiaBarlineJoinType>
@@ -932,7 +932,7 @@
 		<minimumTopPaddingAroundRectangularEnclosures>string: &quot;1/8&quot;</minimumTopPaddingAroundRectangularEnclosures>
 		<minimumBottomPaddingAroundRectangularEnclosures>string: &quot;1/8&quot;</minimumBottomPaddingAroundRectangularEnclosures>
 		<minimumPaddingAroundCircularEnclosures>string: &quot;1/6&quot;</minimumPaddingAroundCircularEnclosures>
-		<barNumberEnclosurePenWidth>string: &quot;1/8&quot;</barNumberEnclosurePenWidth>
+		<barNumberEnclosurePenWidth>string: &quot;9/25&quot;</barNumberEnclosurePenWidth>
 		<countRepeatStructures>bool: false</countRepeatStructures>
 		<gapAboveTrebleGClef>string: &quot;2&quot;</gapAboveTrebleGClef>
 		<gapBelowTrebleGClef>string: &quot;3/2&quot;</gapBelowTrebleGClef>
@@ -977,7 +977,7 @@
 		<maxMultiRestBarWidthBarCountThreshold>int: 10</maxMultiRestBarWidthBarCountThreshold>
 		<showTacetAlFine>bool: true</showTacetAlFine>
 		<alwaysShowBarRestForSingleBar>bool: true</alwaysShowBarRestForSingleBar>
-		<showOneAboveSingleBarRest>bool: true</showOneAboveSingleBarRest>
+		<showOneAboveSingleBarRest>bool: false</showOneAboveSingleBarRest>
 		<minimumSpaceForMultiRestOrTacet>string: &quot;4&quot;</minimumSpaceForMultiRestOrTacet>
 		<minimumSpaceForTacetAlFine>string: &quot;8&quot;</minimumSpaceForTacetAlFine>
 		<multiRestSpacingScaleOnOverfullSystems>double: 0.7</multiRestSpacingScaleOnOverfullSystems>
@@ -1099,49 +1099,49 @@
 		<solfeggioPreferenceForNoteD>int: 0</solfeggioPreferenceForNoteD>
 		<solfeggioPreferenceForNoteG>int: 0</solfeggioPreferenceForNoteG>
 		<solfeggioPreferenceForNoteB>int: 1</solfeggioPreferenceForNoteB>
-		<rootAndBassNoteAccidentalPosition>int: 0</rootAndBassNoteAccidentalPosition>
+		<rootAndBassNoteAccidentalPosition>int: 1</rootAndBassNoteAccidentalPosition>
 		<nashvilleNoteNameAccidentalPosition>int: 1</nashvilleNoteNameAccidentalPosition>
 		<nashvilleNoteNameAccidentalAppearance>int: 0</nashvilleNoteNameAccidentalAppearance>
 		<majorQualityAppearance>int: 0</majorQualityAppearance>
-		<minorQualityAppearance>int: 0</minorQualityAppearance>
-		<majorAndMinorQualityPosition>int: 0</majorAndMinorQualityPosition>
-		<majorSeventhIntervalAppearance>int: 3</majorSeventhIntervalAppearance>
-		<majorSeventhPosition>int: 0</majorSeventhPosition>
+		<minorQualityAppearance>int: 2</minorQualityAppearance>
+		<majorAndMinorQualityPosition>int: 2</majorAndMinorQualityPosition>
+		<majorSeventhIntervalAppearance>int: 1</majorSeventhIntervalAppearance>
+		<majorSeventhPosition>int: 2</majorSeventhPosition>
 		<show7InMajorSeventhChords>bool: true</show7InMajorSeventhChords>
-		<majorSeventhIntervalAppearanceInMinorOrAugmentedChords>int: 3</majorSeventhIntervalAppearanceInMinorOrAugmentedChords>
-		<majorSeventhPositionInMinorAndAugmentedChords>int: 0</majorSeventhPositionInMinorAndAugmentedChords>
+		<majorSeventhIntervalAppearanceInMinorOrAugmentedChords>int: 1</majorSeventhIntervalAppearanceInMinorOrAugmentedChords>
+		<majorSeventhPositionInMinorAndAugmentedChords>int: 1</majorSeventhPositionInMinorAndAugmentedChords>
 		<show7InMinorAndAugmentedChordsWithMajorSeventh>bool: true</show7InMinorAndAugmentedChordsWithMajorSeventh>
-		<majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>int: 1</majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>
+		<majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>int: 0</majorSeventhRepresentationWithOtherExtensionForMinorAndAugChords>
 		<parenthesiseMajorSeventhInMinorAndAugmentedChords>bool: true</parenthesiseMajorSeventhInMinorAndAugmentedChords>
 		<majorSeventhRepresentationWithOtherExtensionForOtherChords>int: 1</majorSeventhRepresentationWithOtherExtensionForOtherChords>
-		<diminishedSeventhQualityAppearance>int: 0</diminishedSeventhQualityAppearance>
+		<diminishedSeventhQualityAppearance>int: 4</diminishedSeventhQualityAppearance>
 		<diminishedTriadQualityAppearance>int: 3</diminishedTriadQualityAppearance>
 		<diminishedTextPosition>int: 0</diminishedTextPosition>
 		<diminishedCirclePosition>int: 1</diminishedCirclePosition>
 		<halfDiminishedChordAppearance>int: 0</halfDiminishedChordAppearance>
 		<halfDiminishedSlashedOPosition>int: 1</halfDiminishedSlashedOPosition>
-		<intervalPosition>int: 0</intervalPosition>
-		<showIntervalSuperscriptWhenUsingSubscriptPosition>bool: false</showIntervalSuperscriptWhenUsingSubscriptPosition>
+		<intervalPosition>int: 1</intervalPosition>
+		<showIntervalSuperscriptWhenUsingSubscriptPosition>bool: true</showIntervalSuperscriptWhenUsingSubscriptPosition>
 		<showIntervalSuperscriptWhenUsingBaselinePosition>bool: false</showIntervalSuperscriptWhenUsingBaselinePosition>
-		<sixSlashNineAppearance>int: 3</sixSlashNineAppearance>
+		<sixSlashNineAppearance>int: 0</sixSlashNineAppearance>
 		<identifySixNineChordsAsSuchWhenAlterationsPresent>bool: true</identifySixNineChordsAsSuchWhenAlterationsPresent>
 		<openFifthAppearance>int: 1</openFifthAppearance>
-		<capitaliseSusAndAugText>bool: false</capitaliseSusAndAugText>
-		<susPosition>int: 0</susPosition>
-		<sus4Appearance>int: 0</sus4Appearance>
+		<capitaliseSusAndAugText>bool: true</capitaliseSusAndAugText>
+		<susPosition>int: 2</susPosition>
+		<sus4Appearance>int: 1</sus4Appearance>
 		<sus2Appearance>int: 0</sus2Appearance>
-		<augPosition>int: 0</augPosition>
-		<augmentedQualityAppearance>int: 0</augmentedQualityAppearance>
+		<augPosition>int: 2</augPosition>
+		<augmentedQualityAppearance>int: 1</augmentedQualityAppearance>
 		<positionAugmentedQualityAfterInterval>bool: false</positionAugmentedQualityAfterInterval>
 		<positionForAlterations>int: 1</positionForAlterations>
 		<parenthesiseAlterations>int: 0</parenthesiseAlterations>
-		<capitaliseTextBasedAlterations>bool: false</capitaliseTextBasedAlterations>
+		<capitaliseTextBasedAlterations>bool: true</capitaliseTextBasedAlterations>
 		<omissionText>int: 0</omissionText>
 		<alterationAccidentalStyle>int: 0</alterationAccidentalStyle>
 		<alterationArrangement>int: 0</alterationArrangement>
 		<alterationAccidentalPosition>int: 1</alterationAccidentalPosition>
 		<includeAddForAdditions>int: 0</includeAddForAdditions>
-		<relativePositionsForChordWithAlteredBassNote>int: 2</relativePositionsForChordWithAlteredBassNote>
+		<relativePositionsForChordWithAlteredBassNote>int: 0</relativePositionsForChordWithAlteredBassNote>
 		<useJapaneseAlteredBassNoteStyle>bool: false</useJapaneseAlteredBassNoteStyle>
 		<relativePositionsInPolychord>int: 1</relativePositionsInPolychord>
 		<compoundChordSeparatorLineWidth>string: &quot;1/10&quot;</compoundChordSeparatorLineWidth>
@@ -1150,10 +1150,10 @@
 		<centreStackedAlterationsVerticallyOnRoot>bool: true</centreStackedAlterationsVerticallyOnRoot>
 		<verticalOffsetForAlterationParentheses>string: &quot;1/4&quot;</verticalOffsetForAlterationParentheses>
 		<centreAlignStackedAlterations>bool: false</centreAlignStackedAlterations>
-		<alteredChordSymbolAppearance>int: 1</alteredChordSymbolAppearance>
+		<alteredChordSymbolAppearance>int: 5</alteredChordSymbolAppearance>
 		<showAltForAlteredChords>int: 3</showAltForAlteredChords>
-		<positionForAlteredChordAlt>int: 0</positionForAlteredChordAlt>
-		<showAltForAlteredChordsInParentheses>bool: false</showAltForAlteredChordsInParentheses>
+		<positionForAlteredChordAlt>int: 1</positionForAlteredChordAlt>
+		<showAltForAlteredChordsInParentheses>bool: true</showAltForAlteredChordsInParentheses>
 		<transposedChordSpellingPreference>int: 0</transposedChordSpellingPreference>
 		<enforceCleanIntervallicRelationshipBetweenRootAndAlteredBass>bool: true</enforceCleanIntervallicRelationshipBetweenRootAndAlteredBass>
 		<chordSymbolRootOnlyAppearance>int: 0</chordSymbolRootOnlyAppearance>
@@ -1185,7 +1185,7 @@
 		<centreUpperChordSymbolOnLower>bool: true</centreUpperChordSymbolOnLower>
 		<verticalGapBetweenChordSymbolRows>string: &quot;1&quot;</verticalGapBetweenChordSymbolRows>
 		<avoidCollisions>bool: true</avoidCollisions>
-		<automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>bool: true</automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>
+		<automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>bool: false</automaticallyCurtailRepeatedChordSymbolsWithChangingBassNote>
 		<automaticallyCurtailRepeatedChordSymbolsThresholdUnit>int: 0</automaticallyCurtailRepeatedChordSymbolsThresholdUnit>
 		<automaticallyCurtailRepeatedChordSymbolsThresholdValue>int: 1</automaticallyCurtailRepeatedChordSymbolsThresholdValue>
 		<explicitlyRestateRootFollowingHiddenChangeOfHarmony>bool: true</explicitlyRestateRootFollowingHiddenChangeOfHarmony>

@@ -205,7 +205,7 @@
 		</preferredMeasurementUnit>
 		<textFontForLanguageMap>
 			<type>list</type>
-			<value>list: {list: {int: 5}, {string: &quot;Noto Sans JP&quot;}}</value>
+			<value>list: {list: {int: 5}, {string: &quot;Noto Sans JP&quot;}}, {list: {int: 0}, {string: &quot;Rhapsody Alpha&quot;}}</value>
 		</textFontForLanguageMap>
 		<mouseDoubleClickCanSwitchMode>
 			<type>bool</type>
@@ -213,7 +213,7 @@
 		</mouseDoubleClickCanSwitchMode>
 		<defaultPaperSizeType>
 			<type>int</type>
-			<value>0</value>
+			<value>1</value>
 		</defaultPaperSizeType>
 		<followSelectionOnUndoRedo>
 			<type>bool</type>
@@ -289,7 +289,7 @@
 		</getHubLearnContent>
 		<hubLearnPageLastVisit>
 			<type>string</type>
-			<value>2025-12-10T20:40:01Z</value>
+			<value>2020-12-10T20:40:01Z</value>
 		</hubLearnPageLastVisit>
 		<getNudgeContent>
 			<type>bool</type>
@@ -453,7 +453,7 @@
 		</useSingleColourForWriteModeBackground>
 		<writeModeCanvasGradientStops>
 			<type>list</type>
-			<value>list: {string: &quot;0.00, #025e95&quot;}, {string: &quot;0.30, #03a1de&quot;}, {string: &quot;0.60, #6bc7ec&quot;}, {string: &quot;1.00, #b4dadd&quot;}</value>
+			<value>list: {string: &quot;0.00, #243949&quot;}, {string: &quot;0.30, #243949&quot;}, {string: &quot;0.60, #517fa4&quot;}, {string: &quot;1.00, #517fa4&quot;}</value>
 		</writeModeCanvasGradientStops>
 		<useSingleColourForEngraveModeBackground>
 			<type>bool</type>
@@ -461,7 +461,7 @@
 		</useSingleColourForEngraveModeBackground>
 		<engraveModeCanvasGradientStops>
 			<type>list</type>
-			<value>list: {string: &quot;0.00, #025e95&quot;}, {string: &quot;0.30, #03a1de&quot;}, {string: &quot;0.60, #6bc7ec&quot;}, {string: &quot;1.00, #b4dadd&quot;}</value>
+			<value>list: {string: &quot;0.00, #243949&quot;}, {string: &quot;1.00, #517fa4&quot;}</value>
 		</engraveModeCanvasGradientStops>
 		<customVoiceColour1>
 			<type>string</type>
